@@ -1,0 +1,225 @@
+{
+ "provincia": "Siracusa",
+ "aziende": [
+  {
+   "nome": "Tutto Infissi Siracusa (Tutto Infissi Group)",
+   "citta": "Siracusa",
+   "indirizzo": "Via Malta 67/69, 96100",
+   "telefono": "0931 61414",
+   "email": "siracusa@tuttoinfissigroup.it",
+   "sito": "https://tuttoinfissigroup.it/siracusa/",
+   "specializzazione": "Showroom infissi PVC, alluminio e legno; portoncini d'ingresso, porte interne e blindate, zanzariere, finestre da tetto, portoni sezionali, tende da sole",
+   "note": "Rivenditore UFFICIALE Drutex (unico in zona); gruppo con showroom anche ad Avola e Augusta",
+   "fonte": "tuttoinfissigroup.it/siracusa"
+  },
+  {
+   "nome": "Tutto Infissi Avola",
+   "citta": "Avola",
+   "indirizzo": "Via Siracusa 11, 96012",
+   "telefono": "0931 967485",
+   "email": "avola@tuttoinfissigroup.it",
+   "sito": "https://tuttoinfissigroup.it/avola/",
+   "specializzazione": "Showroom infissi PVC/alluminio/legno, portoncini, porte interne e blindate, zanzariere, oscuranti",
+   "note": "Rivenditore ufficiale Drutex; sede del gruppo Tutto Infissi",
+   "fonte": "tuttoinfissigroup.it/avola"
+  },
+  {
+   "nome": "Tutto Infissi Augusta",
+   "citta": "Augusta",
+   "indirizzo": "Viale Italia 66, 96011",
+   "telefono": "0931 861271",
+   "email": "augusta@tuttoinfissigroup.it",
+   "sito": "https://tuttoinfissigroup.it/augusta/",
+   "specializzazione": "Showroom infissi PVC, alluminio e legno; portoncini d'ingresso, porte interne e blindate, basculanti, portoni sezionali",
+   "note": "Rivenditore ufficiale Drutex; terza sede del gruppo",
+   "fonte": "tuttoinfissigroup.it/augusta"
+  },
+  {
+   "nome": "Door Style (showroom di Mangiafico Lorena)",
+   "citta": "Siracusa",
+   "indirizzo": "Via Mosco 60, 96100",
+   "telefono": "0931 585815",
+   "email": "",
+   "sito": "https://www.doorstyle.it/",
+   "specializzazione": "Showroom porte e finestre: infissi PVC, legno e legno-alluminio, porte interne, porte blindate, persiane in alluminio, avvolgibili, cassonetti, zanzariere",
+   "note": "Showroom aperto nel 2020; attivo dal 2003; finanziamenti Fiditalia; opera su Sicilia orientale",
+   "fonte": "doorstyle.it"
+  },
+  {
+   "nome": "Porte d'Autore di L&G srl",
+   "citta": "Siracusa",
+   "indirizzo": "Via Ignazio Marabitti 18, 96100",
+   "telefono": "0931 414977",
+   "email": "porteautore@libero.it",
+   "sito": "https://www.portedautore.it/",
+   "specializzazione": "Showroom 200 mq: porte interne, portoncini, porte blindate, infissi, parquet, zanzariere, tende",
+   "note": "Marchi: Gardesa, Vighi Doors, Bauxt (blindate), Spagnoli (grate/cancelli), Suncover (zanzariere/tende)",
+   "fonte": "portedautore.it/contatti"
+  },
+  {
+   "nome": "Pisano Serramenti (dal 1976)",
+   "citta": "Siracusa",
+   "indirizzo": "Traversa La Pizzuta 15, 96100",
+   "telefono": "0931 758600",
+   "email": "info@pisanoserramenti.com",
+   "sito": "https://www.pisanoserramenti.com/",
+   "specializzazione": "Infissi in alluminio e PVC, finestre, portefinestre, scorrevoli; produzione e posa",
+   "note": "Rivenditore Ponzio (profili alluminio); 50 anni di attivita",
+   "fonte": "pisanoserramenti.com/contatti + ponzioaluminium.com"
+  },
+  {
+   "nome": "Prato Infissi srl",
+   "citta": "Siracusa",
+   "indirizzo": "Via Stentinello, C.da Targia 9, 96100",
+   "telefono": "335 1005695",
+   "email": "infopratoinfissi@gmail.com",
+   "sito": "https://www.pratoinfissi-sr.com/",
+   "specializzazione": "Infissi e serramenti, lavorazione ferro, porte e portoni da garage, zanzariere",
+   "note": "Produttore autorizzato Salamander (PVC); fondata nel 1976; finanziamenti Fiditalia",
+   "fonte": "pratoinfissi-sr.com"
+  },
+  {
+   "nome": "Euroinfissi Siracusa",
+   "citta": "Siracusa",
+   "indirizzo": "Via Michele Bonanno 41, 96100",
+   "telefono": "0931 702529",
+   "email": "info@euroinfissisiracusa.it",
+   "sito": "https://www.euroinfissisiracusa.com/",
+   "specializzazione": "Infissi alluminio e PVC a taglio termico, finestre, porte, zanzariere",
+   "note": "Attiva dal 1979, oltre 40 anni; showroom/ricevimento in sede",
+   "fonte": "euroinfissisiracusa.com"
+  },
+  {
+   "nome": "Cannata Serramenti",
+   "citta": "Siracusa",
+   "indirizzo": "Viale Ermocrate 16, 96100",
+   "telefono": "0931 463936",
+   "email": "giuseppecannatasr@virgilio.it",
+   "sito": "https://www.cannataserramentisr.com/",
+   "specializzazione": "Vetreria storica + serramenti in alluminio, finestre su misura, lavori in ferro, porte",
+   "note": "Oltre 40 anni di attivita; sede moderna in viale Ermocrate dal 1997",
+   "fonte": "cannataserramentisr.com/contatti"
+  },
+  {
+   "nome": "Showroom Vetreria Giarratana - Infissi in PVC e Alluminio",
+   "citta": "Siracusa",
+   "indirizzo": "Piazza Giovanni XXIII 8, 96100",
+   "telefono": "0931 33299",
+   "email": "",
+   "sito": "",
+   "specializzazione": "Showroom infissi in PVC e alluminio, porte interne, vetreria",
+   "note": "Punto vendita con esposizione in centro (zona Viale Tica)",
+   "fonte": "PagineGialle/PagineBianche + Cylex Italia"
+  },
+  {
+   "nome": "Martogli Project srl",
+   "citta": "Floridia",
+   "indirizzo": "Via Falcone 6, 96014",
+   "telefono": "0931 941363",
+   "email": "info@martogli.it",
+   "sito": "https://www.martogligroup.it/",
+   "specializzazione": "Showroom serramenti: finestre alluminio, PVC, legno e legno-alluminio, porte interne e scorrevoli, zanzariere, scale, tende, coperture",
+   "note": "Showroom aziendale; anche lavorazioni acciaio inox",
+   "fonte": "martogligroup.it/contatti"
+  },
+  {
+   "nome": "SG Serramenti srl semplificata",
+   "citta": "Floridia",
+   "indirizzo": "Contrada Vignarelli, 96014",
+   "telefono": "0931 943086",
+   "email": "",
+   "sito": "https://www.sgserramentifloridia.it/",
+   "specializzazione": "Infissi termici a risparmio energetico, alluminio, porte interne ed esterne, avvolgibili, cassonetti, vetri e zanzariere, persiane",
+   "note": "Due professionisti con oltre 20 anni nel settore; posa certificata",
+   "fonte": "sgserramentifloridia.it + ufficiocamerale.it"
+  },
+  {
+   "nome": "Guardo Serramenti / C. & G. Serramenti",
+   "citta": "Floridia",
+   "indirizzo": "Via Francesco Crispi 189, 96014",
+   "telefono": "",
+   "email": "",
+   "sito": "https://www.guardoserramenti.it/",
+   "specializzazione": "Infissi e facciate continue/ventilate in alluminio, PVC, legno e acciaio; serramenti per privati e pubblico",
+   "note": "Gruppo Guardo dal 1967; punto vendita C. & G. Serramenti anche in Via Floridia 68 a Siracusa",
+   "fonte": "guardoserramenti.it + PagineGialle"
+  },
+  {
+   "nome": "ARTinfissi",
+   "citta": "Siracusa",
+   "indirizzo": "Showroom: Via Alcibiade 17, 96100 (produzione: Via Carlo Marx 39, C.da Marchesa, Floridia)",
+   "telefono": "329 7172822",
+   "email": "info@art-infissi.com",
+   "sito": "https://www.art-infissi.com/",
+   "specializzazione": "Showroom infissi e serramenti PVC/alluminio, porte interne ed esterne, finestre scorrevoli, oscuranti, zanzariere",
+   "note": "Showroom a Siracusa + stabilimento a Floridia; posa certificata THERMOPOSA",
+   "fonte": "art-infissi.com/contatti"
+  },
+  {
+   "nome": "TICO Design (Tico srl)",
+   "citta": "Floridia",
+   "indirizzo": "Sede operativa: Strada Prima Portella, 96014 (sede legale Via Bellini 9)",
+   "telefono": "0931 940122",
+   "email": "ticodesign21@gmail.com",
+   "sito": "https://www.ticosrl.com/",
+   "specializzazione": "Punto vendita infissi alluminio a taglio termico, PVC e legno, porte interne, cucine",
+   "note": "Showroom/arredamento; convenzionato Fiditalia",
+   "fonte": "ticosrl.com"
+  },
+  {
+   "nome": "Cataldo Spazio Casa srl",
+   "citta": "Siracusa",
+   "indirizzo": "Via Piave 51, 96100 (2 punto vendita: Via Antonio Gramsci, Floridia)",
+   "telefono": "0931 60938",
+   "email": "cataldospaziocasasrl@gmail.com",
+   "sito": "https://www.cataldospaziocasa.com/",
+   "specializzazione": "Showroom casa: porte interne (laccato, laminato, massello), porte blindate, maniglie, sistemi scorrevoli",
+   "note": "Due punti vendita (Siracusa e Floridia); showroom arredo-casa con reparto porte",
+   "fonte": "cataldospaziocasa.com/contatti"
+  },
+  {
+   "nome": "Portarredo",
+   "citta": "Noto",
+   "indirizzo": "Via Cavalieri di Vittorio Veneto 29, 96017",
+   "telefono": "392 5637941",
+   "email": "",
+   "sito": "",
+   "specializzazione": "Showroom infissi/serramenti e porte (finestre in PVC, portoncini, porte interne)",
+   "note": "Orario con pausa pranzo, aperto sabato mattina",
+   "fonte": "scheda attivita (keenable/mappa locale)"
+  },
+  {
+   "nome": "MD Infissi",
+   "citta": "Noto",
+   "indirizzo": "Viale Principe di Piemonte 148, 96017",
+   "telefono": "0931 838791",
+   "email": "",
+   "sito": "http://www.infissiinalluminio.noto.sr.it/",
+   "specializzazione": "Infissi in alluminio, finestre, portefinestre, serramenti su misura",
+   "note": "Punto vendita con sito locale dedicato agli infissi in alluminio",
+   "fonte": "infissiinalluminio.noto.sr.it"
+  },
+  {
+   "nome": "Amore Infissi di Amore Srls",
+   "citta": "Rosolini",
+   "indirizzo": "Via S. Alessandra snc, 96019",
+   "telefono": "0931 1502423 / 335 1619736",
+   "email": "amore.infissi@gmail.com",
+   "sito": "https://www.amoreinfissi.it/",
+   "specializzazione": "Serramenti e infissi in alluminio su misura, produzione artigianale, edilizia civile e industriale",
+   "note": "Lun-Ven 9-12:30 / 15-18:30, Sab mattina",
+   "fonte": "amoreinfissi.it/contatti"
+  },
+  {
+   "nome": "R.S. Infissi di Schembri Rosario & C. s.a.s.",
+   "citta": "Pachino",
+   "indirizzo": "Strada Provinciale Pachino-Noto Km 0.500, 96018",
+   "telefono": "0931 801955",
+   "email": "infissi.schembri@alice.it",
+   "sito": "https://www.rsinfissi.it/",
+   "specializzazione": "Infissi in alluminio: finestre, persiane, facciate continue, vetrine, verande",
+   "note": "Produttore/trasformatore alluminio; punto vendita su strada provinciale",
+   "fonte": "rsinfissi.it + PagineGialle"
+  }
+ ]
+}

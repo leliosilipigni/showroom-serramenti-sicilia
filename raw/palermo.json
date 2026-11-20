@@ -1,0 +1,280 @@
+{
+ "provincia": "Palermo",
+ "aziende": [
+  {
+   "nome": "Scaduto Serramenti",
+   "citta": "Palermo",
+   "indirizzo": "Via Prospero Favier 4/C, 90124 (showroom: Via Sciuti 65, 90144)",
+   "telefono": "091 475634",
+   "email": "info@scadutoserramenti.eu",
+   "sito": "https://www.scadutoserramenti.eu",
+   "specializzazione": "infissi in alluminio e PVC, finestre, porte, inferriate e porte corazzate",
+   "note": "Showroom in via Sciuti 65; sede/laboratorio in via Prospero Favier 4/C",
+   "fonte": "sito aziendale"
+  },
+  {
+   "nome": "MDS Serramenti (M.D.S. di Marco Di Salvo)",
+   "citta": "Palermo",
+   "indirizzo": "Via Pietro D'Aragona 2, 90127 (showroom: Via Giorgio Arcoleo 9)",
+   "telefono": "091 214489 / 338 6268072",
+   "email": "mds.marco@virgilio.it",
+   "sito": "https://www.serramentimds.com",
+   "specializzazione": "serramenti in alluminio, porte, finestre, infissi su misura",
+   "note": "Showroom in via Giorgio Arcoleo 9 angolo via Pietro D'Aragona; officina in via P. D'Aragona 2",
+   "fonte": "sito aziendale"
+  },
+  {
+   "nome": "Fanara Serramenti S.r.l.",
+   "citta": "Palermo",
+   "indirizzo": "Viale delle Magnolie 26, 90144",
+   "telefono": "091 6759074",
+   "email": "info@fanaraserramenti.com",
+   "sito": "https://www.fanaraserramenti.com",
+   "specializzazione": "infissi in PVC, alluminio e ferro, porte, verande, zanzariere",
+   "note": "Rivenditore Premium Oknoplast; seconda sede in Via Sabotino 7, Casteldaccia (PA)",
+   "fonte": "sito aziendale / Oknoplast"
+  },
+  {
+   "nome": "Gruppo Aerre",
+   "citta": "Terrasini",
+   "indirizzo": "Via Giovanni Verga 1/B, 90049 Terrasini (showroom Palermo: Via Vincenzo di Marco 28, 90143)",
+   "telefono": "091 5567732 / 331 9833118",
+   "email": "",
+   "sito": "https://www.gruppoaerre.it",
+   "specializzazione": "finestre e infissi in PVC, legno e alluminio, porte interne PCM, tende, pergole",
+   "note": "Rivenditore e installatore certificato infissi Risposta; showroom a Palermo in via Vincenzo di Marco 28",
+   "fonte": "sito aziendale / reteimprese.it"
+  },
+  {
+   "nome": "Cascino Showroom Palermo",
+   "citta": "Palermo",
+   "indirizzo": "Via Vittorio Alfieri 27, 90144",
+   "telefono": "091 306715 / 329 0050670",
+   "email": "showroom@cascino.it",
+   "sito": "https://www.cascino.it",
+   "specializzazione": "showroom multisettore con reparto infissi e porte: finestre, portoncini, porte interne",
+   "note": "Showroom arredo/casa; altro showroom a Termini Imerese (Via Crisone 1) e centri a Bagheria, Lascari, Sciacca",
+   "fonte": "sito aziendale / Intex Italia"
+  },
+  {
+   "nome": "Expocasa (Finstral Studio Partner)",
+   "citta": "Palermo",
+   "indirizzo": "Via Sicilia 8, 90144",
+   "telefono": "091 8394457",
+   "email": "",
+   "sito": "https://expocasapalermo.it",
+   "specializzazione": "infissi Finstral in PVC, alluminio e legno, porte interne Garofoli, porte blindate Scrigno, pergole Gibus",
+   "note": "Finstral Studio Partner e Garofoli Store; seconda sede/showroom a Bagheria, Via B. Mattarella 129/131 (tel. 091 900671)",
+   "fonte": "sito aziendale / Finstral"
+  },
+  {
+   "nome": "Porte Corazzate Geraci",
+   "citta": "Palermo",
+   "indirizzo": "Via Empedocle Restivo 75, 90144",
+   "telefono": "091 527179 / 320 6937578",
+   "email": "francogeraci2011@hotmail.com",
+   "sito": "https://www.portecorazzategeraci.it",
+   "specializzazione": "porte corazzate e blindate, infissi, serramenti, zanzariere, serrande, box doccia",
+   "note": "Showroom in via Empedocle Restivo 75 angolo via Val di Mazzara; pronto intervento aperture porte",
+   "fonte": "sito aziendale / PagineGialle"
+  },
+  {
+   "nome": "FMG Serramenti Giuliano",
+   "citta": "Palermo",
+   "indirizzo": "Showroom Finestre e...: Piazza F. P. Tosti 15, 90145 (fabbrica: Via Michele Cipolla 133, 90123)",
+   "telefono": "091 7476344 / 091 6169435",
+   "email": "info@giulianosnc.it",
+   "sito": "https://www.serramentigiuliano.it",
+   "specializzazione": "porte interne, esterne, corazzate e scorrevoli, finestre, serrande, vetro e arredo metallico",
+   "note": "Showroom dedicato; produzione in via Michele Cipolla 133",
+   "fonte": "sito aziendale"
+  },
+  {
+   "nome": "Pantaleo Porte Corazzate",
+   "citta": "Palermo",
+   "indirizzo": "Via Sampolo 222/B, 90143",
+   "telefono": "091 305130 / 348 7774781",
+   "email": "",
+   "sito": "https://www.pantaleoportecorazzate.it",
+   "specializzazione": "porte corazzate, porte interne, serramenti, infissi, casseforti, serrature e centro chiavi",
+   "note": "Sede unica con esposizione; assistenza H24",
+   "fonte": "sito aziendale / PagineGialle"
+  },
+  {
+   "nome": "Rodolico Pietro Srl Infissi",
+   "citta": "Palermo",
+   "indirizzo": "Viale Regione Siciliana 113 (angolo Corso Calatafimi), 90138",
+   "telefono": "091 8211209 / 331 6337178",
+   "email": "pietrorodolico@tiscali.it",
+   "sito": "http://www.rodolicoinfissi.it",
+   "specializzazione": "infissi in alluminio a taglio termico, legno-alluminio, PVC e fibra di vetro; persiane",
+   "note": "Altri showroom: Viale delle Alpi 58 (90144 Palermo) e Lercara Friddi; produzione propria dal 1983",
+   "fonte": "sito aziendale"
+  },
+  {
+   "nome": "TecnoInfissi S.r.l.",
+   "citta": "Palermo",
+   "indirizzo": "Via dei Cantieri 20, 90142",
+   "telefono": "091 6487293 / 091 495794",
+   "email": "servizioclienti@tecnoinfissisrl.com",
+   "sito": "https://www.tecnoinfissisrl.com",
+   "specializzazione": "infissi, porte, vetrate, verande e pergolati; 750 mq di esposizione",
+   "note": "Rivenditore Hoermann; partner Schueco (Gruppo Guercio); showroom 750 mq",
+   "fonte": "sito aziendale / Hoermann"
+  },
+  {
+   "nome": "D'Amico Piu",
+   "citta": "Palermo",
+   "indirizzo": "Viale della Regione Siciliana Nord Ovest 4698, 90147",
+   "telefono": "091 6851595 / 389 6337704",
+   "email": "info@damicopiu.it",
+   "sito": "https://damicopiu.it",
+   "specializzazione": "porte e finestre, infissi, verande",
+   "note": "Punto vendita con esposizione su viale Regione Siciliana",
+   "fonte": "sito aziendale"
+  },
+  {
+   "nome": "Mannino Porte e Finestre S.r.l.",
+   "citta": "Palermo",
+   "indirizzo": "Corso Calatafimi 221-223-225, 90129",
+   "telefono": "091 7792650 / 091 7364556",
+   "email": "manninoporteefinestre@gmail.com",
+   "sito": "https://www.manninoporteefinestre.it",
+   "specializzazione": "finestre, portoncini d'ingresso e porte in PVC, alluminio e legno; 90 mq esposizione",
+   "note": "Studio Partner Finstral dal 2013, con desk di progettazione",
+   "fonte": "sito aziendale / Finstral"
+  },
+  {
+   "nome": "Mini Serramenti",
+   "citta": "Palermo",
+   "indirizzo": "Via Calcante 17, 90147",
+   "telefono": "091 2764888 / 351 5919868",
+   "email": "info@miniserramenti.com",
+   "sito": "https://www.miniserramenti.com",
+   "specializzazione": "infissi in PVC e alluminio, porte interne ed esterne, opere in ferro",
+   "note": "Showroom aziendale in via Calcante 17",
+   "fonte": "sito aziendale"
+  },
+  {
+   "nome": "Bonanno Serramenti (dal 1900)",
+   "citta": "Palermo",
+   "indirizzo": "Via Palmerino 69, 90129",
+   "telefono": "091 6684309",
+   "email": "info@bonannoserramenti.it",
+   "sito": "https://www.bonannoserramenti.com",
+   "specializzazione": "infissi in PVC e alluminio, porte interne, portoncini blindati, schermature solari",
+   "note": "Showroom Bonanno 4.0 (rivenditore Nurith) in Via Emanuele Notarbartolo 56/C, 90145 Palermo",
+   "fonte": "sito aziendale"
+  },
+  {
+   "nome": "Vitech Servizi",
+   "citta": "Palermo",
+   "indirizzo": "Via Filippo Cordova 8/10",
+   "telefono": "091 363776",
+   "email": "vitechimpianti@libero.it",
+   "sito": "https://www.vitechservizi.it",
+   "specializzazione": "porte interne e porte blindate, portoncini, infissi; showroom con esposizione",
+   "note": "Showroom principale in via Filippo Cordova 8/10; sede tecnica al civico 17; porte GIO.MA.",
+   "fonte": "sito aziendale"
+  },
+  {
+   "nome": "Greco Vetri e Infissi",
+   "citta": "Bagheria",
+   "indirizzo": "Via Tolomeo 7, 90011",
+   "telefono": "091 962466 / 340 0911023",
+   "email": "",
+   "sito": "https://grecovetrieinfissi.com",
+   "specializzazione": "infissi in alluminio e PVC, vetri, box doccia, serramenti e design",
+   "note": "Showroom con reparto vetro e reparto serramenti",
+   "fonte": "sito aziendale"
+  },
+  {
+   "nome": "Ser.Met di Buttitta Matilde",
+   "citta": "Bagheria",
+   "indirizzo": "Via Marco Tullio Cicerone 3/G, 90011",
+   "telefono": "375 8875451",
+   "email": "sermet.bagheria@gmail.com",
+   "sito": "https://ser-met.it",
+   "specializzazione": "serrande metalliche, porte basculanti, portoni automatici e motorizzazioni",
+   "note": "Officina e punto vendita; produzione e manutenzione serrande",
+   "fonte": "sito aziendale"
+  },
+  {
+   "nome": "N.C. Porte e Finestre (Ninni Conigliaro e Figli)",
+   "citta": "Palermo",
+   "indirizzo": "Via Empedocle Restivo 158, 90144 (fabbrica: Via Ugo La Malfa 90, Casteldaccia)",
+   "telefono": "091 515270 / 091 547669",
+   "email": "info@ncporteefinestre.it",
+   "sito": "https://www.ncporteefinestre.com",
+   "specializzazione": "infissi in PVC e alluminio, persiane, serrande, zanzariere, pergole bioclimatiche, porte",
+   "note": "Marchi trattati: Salamander, Domal, Mottura, Tempotest, MV Line; showroom a Palermo e fabbrica a Casteldaccia",
+   "fonte": "sito aziendale"
+  },
+  {
+   "nome": "EmmeHome (Emme Home S.r.l.)",
+   "citta": "Termini Imerese",
+   "indirizzo": "Via Giovanni Falcone e Paolo Borsellino 123, 90018",
+   "telefono": "091 8113434",
+   "email": "showroom@emmehome.it",
+   "sito": "https://www.emmehome.it",
+   "specializzazione": "infissi, porte interne e blindate, arredo giardino; showroom con esposizione",
+   "note": "Rivenditore Nurith e Dierre; showroom a Termini Imerese",
+   "fonte": "sito aziendale / PagineGialle"
+  },
+  {
+   "nome": "Thermo Infissi di Coraci Filippo & C.",
+   "citta": "Partinico",
+   "indirizzo": "S.S. 113 Km 318,300, 90047",
+   "telefono": "392 4651615 / 333 9627475",
+   "email": "",
+   "sito": "https://thermoinfissi.net",
+   "specializzazione": "serramenti in PVC e alluminio, porte, portoni da garage, zanzariere",
+   "note": "Concessionario Hoermann; profili Schueco e Reynaers; showroom in S.S. 113",
+   "fonte": "sito aziendale / Hoermann"
+  },
+  {
+   "nome": "Greco S.r.l. (Finstral Studio Partner)",
+   "citta": "Partinico",
+   "indirizzo": "Via Donizetti 45, 90047",
+   "telefono": "091 8981091",
+   "email": "",
+   "sito": "https://www.grecosrl.it",
+   "specializzazione": "finestre e infissi in PVC e alluminio, porte, zanzariere, vetrate",
+   "note": "Studio Partner Finstral dal 2007 e punto vendita Garofoli; showroom con 60 mq espositivi",
+   "fonte": "sito aziendale / Finstral"
+  },
+  {
+   "nome": "Tamburello Serramenti",
+   "citta": "Monreale",
+   "indirizzo": "Via Del Monte 2, 90046",
+   "telefono": "335 6648920 / 388 8905344",
+   "email": "tamburello.serramenti@gmail.com",
+   "sito": "https://www.tamburelloserramenti.it",
+   "specializzazione": "serramenti e infissi, finestre, porte, persiane",
+   "note": "Showroom a Monreale",
+   "fonte": "sito aziendale"
+  },
+  {
+   "nome": "Sicilinfissi S.r.l.",
+   "citta": "Belmonte Mezzagno",
+   "indirizzo": "Via Piersanti Mattarella 46, 90020",
+   "telefono": "091 8729862 / 351 2058988",
+   "email": "",
+   "sito": "https://sicilinfissi.it",
+   "specializzazione": "infissi in PVC, alluminio, legno, acciaio; porte blindate, oscuranti, zanzariere, pergole",
+   "note": "Showroom aziendale; marchi AluK, Oknoplast, Warema, Mottura, Pellini",
+   "fonte": "sito aziendale"
+  },
+  {
+   "nome": "Sovan Italian Doors",
+   "citta": "Carini",
+   "indirizzo": "S.S. 113 Km 281 n.22, 90044",
+   "telefono": "091 8690515",
+   "email": "",
+   "sito": "https://www.sovanitaliandoors.it",
+   "specializzazione": "porte in legno massello, laminato e blindate; infissi in PVC e alluminio, porte filo muro",
+   "note": "Agenzia esclusivista DAKO per la Sicilia; showroom presso la sede di Carini",
+   "fonte": "sito aziendale / ItaliaRecensioni"
+  }
+ ]
+}

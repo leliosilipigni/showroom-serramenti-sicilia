@@ -1,0 +1,247 @@
+{
+ "provincia": "Messina",
+ "aziende": [
+  {
+   "nome": "Santoro Group S.r.l.",
+   "citta": "Barcellona Pozzo di Gotto",
+   "indirizzo": "Via Leonardo da Vinci 71, 98051",
+   "telefono": "090 9797965",
+   "email": "info@santorogroup.eu",
+   "sito": "https://santorogroup.eu",
+   "specializzazione": "Finestre e portefinestre in alluminio e legno-alluminio, facciate continue, porte interne ed esterne, lavorazioni su misura in metallo",
+   "note": "Schueco Premium Partner; tratta anche Secco Sistemi, Hansen, Oikos, Pivato. Showroom/secondo punto a Milazzo (Mazzettini). Posa certificata Posa Qualita Serramenti.",
+   "fonte": "santorogroup.eu"
+  },
+  {
+   "nome": "Cannistra Infissi S.r.l.",
+   "citta": "San Pier Niceto (San Pier Marina)",
+   "indirizzo": "C.da San Biagio, 98045",
+   "telefono": "090 9910170",
+   "email": "",
+   "sito": "https://cannistra.it",
+   "specializzazione": "Infissi alluminio, PVC, legno e legno-alluminio, acciaio; porte interne, portoni, porte garage, oscuranti, zanzariere, pergole",
+   "note": "Showroom aziendale; sistemi Domal e Sciuker Frames. Maestro Serramentista Domal.",
+   "fonte": "cannistra.it + domal.it"
+  },
+  {
+   "nome": "Santangelo Giuseppe Serramenti",
+   "citta": "Barcellona Pozzo di Gotto",
+   "indirizzo": "Via D. Scina 125, 98051",
+   "telefono": "090 9701232",
+   "email": "serrament.santangelo@libero.it",
+   "sito": "https://www.serramentisantangelo.com",
+   "specializzazione": "Serramenti in alluminio, alluminio-legno e PVC a taglio termico, portoni blindati, porte interne in legno, zanzariere, box doccia",
+   "note": "Azienda storica della zona; ampio catalogo porte e infissi.",
+   "fonte": "serramentisantangelo.com/contatti"
+  },
+  {
+   "nome": "Nuova Fab di Aliberti Sebastiano",
+   "citta": "Barcellona Pozzo di Gotto",
+   "indirizzo": "Via Leonardo da Vinci 1 / Via del Mare 199, 98051",
+   "telefono": "090 9702239",
+   "email": "nuovafab@virgilio.it",
+   "sito": "https://www.nuovafab.com",
+   "specializzazione": "Porte in PVC, portoni, persiane, serrande e avvolgibili, tapparelle, zanzariere, cancelli",
+   "note": "Produzione propria e punto vendita; due riferimenti di sede in citta.",
+   "fonte": "nuovafab.com/contatti"
+  },
+  {
+   "nome": "Cirino Infissi",
+   "citta": "Milazzo",
+   "indirizzo": "Contrada Masseria snc, 98057",
+   "telefono": "090 9392800",
+   "email": "",
+   "sito": "https://cirinoinfissi.it",
+   "specializzazione": "Serramenti in legno e PVC, infissi in alluminio, facciate continue, porte interne, portoncini blindati, telai a scomparsa, zanzariere",
+   "note": "Produzione interna e showroom; cellulari 335 8429763 / 335 8429762.",
+   "fonte": "cirinoinfissi.it"
+  },
+  {
+   "nome": "TEC di Lazzaro G. & C. snc",
+   "citta": "Milazzo",
+   "indirizzo": "Via De Gregorio 29, 98057",
+   "telefono": "090 9282585",
+   "email": "tecdilazzaro@inwind.it",
+   "sito": "https://tecdilazzaro.it",
+   "specializzazione": "Infissi e serramenti in alluminio e PVC, persiane, infissi tinte legno, cassette condominiali",
+   "note": "Azienda con oltre 60 anni di attivita nel Milazzese.",
+   "fonte": "tecdilazzaro.it/contatti"
+  },
+  {
+   "nome": "Donia Serramenti",
+   "citta": "Torregrotta",
+   "indirizzo": "Via Angelo Musco 22, 98040",
+   "telefono": "393 9672200",
+   "email": "doniaserramenti@gmail.com",
+   "sito": "https://doniaserramenti.com",
+   "specializzazione": "Portoni blindati e corazzati, finestre, persiane, zanzariere, infissi in ferro",
+   "note": "Showroom in sede; punto di riferimento nel comprensorio di Milazzo/Valle del Mela.",
+   "fonte": "doniaserramenti.com/contatti"
+  },
+  {
+   "nome": "Archiporte S.a.s. di Irato Maria",
+   "citta": "Rometta",
+   "indirizzo": "Via Nazionale 334, 98040 Rometta Marea",
+   "telefono": "090 9942606",
+   "email": "info@archiporte.it",
+   "sito": "https://www.archiporte.it",
+   "specializzazione": "Showroom porte interne, porte blindate, serramenti, parquet, scale, carta da parati e progetti d'arredo",
+   "note": "Showroom dedicato; secondo punto vendita a Spadafora, Via Umberto I 383.",
+   "fonte": "archiporte.it/contatti"
+  },
+  {
+   "nome": "Bucca Antonino S.r.l.",
+   "citta": "San Filippo del Mela",
+   "indirizzo": "Via Archi Nazionale 313, 98044",
+   "telefono": "090 9385151",
+   "email": "info@antoninobucca.com",
+   "sito": "https://www.antoninobucca.com",
+   "specializzazione": "Infissi in alluminio, pergole, opere in metallo, lamiere",
+   "note": "Rivenditore/trasformatore profili Ponzio; attiva dal 1973.",
+   "fonte": "antoninobucca.com + ponzioaluminium.com"
+  },
+  {
+   "nome": "Marino Infissi S.r.l.s.",
+   "citta": "Messina",
+   "indirizzo": "Via S. Cosimo, 98124",
+   "telefono": "090 2934811",
+   "email": "",
+   "sito": "",
+   "specializzazione": "Infissi e serramenti, finestre e portefinestre",
+   "note": "Punto vendita con orario continuato 8-18 e sabato mattina. Dati non verificati su sito aziendale.",
+   "fonte": "scheda attivita locale (keenable/cards)"
+  },
+  {
+   "nome": "Edil Line di Bruno Carmelo",
+   "citta": "Messina",
+   "indirizzo": "Via Santa Marta 330/334, 98124",
+   "telefono": "090 679240",
+   "email": "edilline2@gmail.com",
+   "sito": "",
+   "specializzazione": "Porte interne, porte scorrevoli, porte corazzate e blindate, cristalli, sistemi filomuro",
+   "note": "Showroom porte in zona centro; pagina Facebook attiva.",
+   "fonte": "cylex-italia.it + impresaitalia.info + guidaSicilia"
+  },
+  {
+   "nome": "Serramenti Margherita S.a.s.",
+   "citta": "Messina",
+   "indirizzo": "Via del Santo 33 (zona Palmara / Viale Europa), 98124",
+   "telefono": "090 693229",
+   "email": "serramentimargherita@gmail.com",
+   "sito": "https://serramentimargherita.it",
+   "specializzazione": "Infissi alluminio e taglio termico, PVC, legno-alluminio, verande, box doccia, porte interne e corazzate, avvolgibili",
+   "note": "Punto vendita/capannone con esposizione; cellulare 393 9410617.",
+   "fonte": "serramentimargherita.it/contatti"
+  },
+  {
+   "nome": "Serramenti Galletta (Galletta Rosario)",
+   "citta": "Messina",
+   "indirizzo": "Vico Baglio 8, 98124",
+   "telefono": "090 692143",
+   "email": "loretog@hotmail.it",
+   "sito": "https://www.serramentigalletta.com",
+   "specializzazione": "Serramenti, infissi e finestre in ferro e alluminio, ringhiere e accessori",
+   "note": "Azienda con oltre 30 anni di attivita; cellulare 328 7268507.",
+   "fonte": "serramentigalletta.com"
+  },
+  {
+   "nome": "Infissi e Serramenti Metal Market di Sorrenti Francesco",
+   "citta": "Messina",
+   "indirizzo": "Via Santa Maria dell'Arco 34, 98121",
+   "telefono": "090 343795",
+   "email": "",
+   "sito": "",
+   "specializzazione": "Infissi e serramenti metallici, finestre, porte",
+   "note": "Punto vendita in zona centro-nord.",
+   "fonte": "scheda attivita locale (keenable/cards)"
+  },
+  {
+   "nome": "Zappia Giuseppe - Porte Corazzate e Blindate",
+   "citta": "Messina",
+   "indirizzo": "Via Giuseppe La Farina 188, 98124",
+   "telefono": "347 1778111",
+   "email": "",
+   "sito": "https://zappiasicurezza.it",
+   "specializzazione": "Porte corazzate e blindate, porte di sicurezza, serrature e sistemi antifurto",
+   "note": "Showroom specializzato porte blindate; orario 9-13 / 16-20.",
+   "fonte": "zappiasicurezza.it + scheda attivita locale"
+  },
+  {
+   "nome": "G&G Serramenti S.r.l. (Giordano Placido e Fabio)",
+   "citta": "Messina",
+   "indirizzo": "SS 114 km 6.100, Tremestieri, 98128",
+   "telefono": "347 8242596 / 090 622677",
+   "email": "serramentigeg@gmail.com",
+   "sito": "https://www.gegserramenti.com",
+   "specializzazione": "Infissi su misura in PVC, alluminio e legno, tende da sole, pergole bioclimatiche, zanzariere, veneziane, lavorazioni in ferro",
+   "note": "Sede con esposizione su SS114 a Tremestieri; posatori certificati.",
+   "fonte": "gegserramenti.com/contatti"
+  },
+  {
+   "nome": "Arte Infissi di Andrea Bombara",
+   "citta": "Messina",
+   "indirizzo": "Via Catania 108, 98124",
+   "telefono": "",
+   "email": "",
+   "sito": "",
+   "specializzazione": "Serramenti e infissi, porte e finestre",
+   "note": "Ditta individuale iscritta all'Albo fornitori della Regione Siciliana; telefono da verificare in loco.",
+   "fonte": "empresite.it + pgcasa.it"
+  },
+  {
+   "nome": "Tecnosystem S.r.l.",
+   "citta": "Giardini Naxos",
+   "indirizzo": "Via Consolare Valeria 27/29, 98035",
+   "telefono": "0942 54072",
+   "email": "tecno_systemsrl@libero.it",
+   "sito": "",
+   "specializzazione": "Porte, infissi e serramenti, ristrutturazioni",
+   "note": "Punto vendita con esposizione sulla via consolare; cellulare 389 9288335.",
+   "fonte": "paginegialle.it + paginebianche.it"
+  },
+  {
+   "nome": "Greco Serramenti (Officina del fabbro-ferraio Greco)",
+   "citta": "Giardini Naxos",
+   "indirizzo": "Via Zara 35/37, 98030",
+   "telefono": "0942 56024",
+   "email": "expo@grecoserramenti.com",
+   "sito": "https://www.grecoserramenti.it",
+   "specializzazione": "Serramenti e facciate di alto profilo, giardini d'inverno e schermature solari, scale e opere in ferro, complementi di design",
+   "note": "Showroom a Giardini Naxos + sede produttiva a Francavilla di Sicilia (S.S. 185 C/da Barbazza, 98034, tel. 0942 981173). Attiva dal 1893.",
+   "fonte": "grecoserramenti.it"
+  },
+  {
+   "nome": "Giglia Infissi",
+   "citta": "Capo d'Orlando",
+   "indirizzo": "Via Nazionale Palermo 186, 98071",
+   "telefono": "339 8068569",
+   "email": "",
+   "sito": "",
+   "specializzazione": "Serramenti in alluminio/PVC/alluminio-legno, zanzariere, box doccia, portoni blindati, verande, pergole bioclimatiche, porte interne",
+   "note": "Seconda sede in Via Piccolo Lucio 6 (Capo d'Orlando); contattabile anche via WhatsApp.",
+   "fonte": "paginegialle.it + virgilio.it"
+  },
+  {
+   "nome": "Metalsider S.r.l.",
+   "citta": "Capo d'Orlando",
+   "indirizzo": "Contrada Furriolo 16, 98071",
+   "telefono": "0941 957749",
+   "email": "",
+   "sito": "https://www.metalsidersrl.it",
+   "specializzazione": "Infissi e serramenti in alluminio e ferro, finestre, persiane, scuri, scale, cancelli",
+   "note": "Stabilimento/showroom in contrada Furriolo; altro riferimento in Via Mancini 33.",
+   "fonte": "metalsidersrl.it + virgilio.it"
+  },
+  {
+   "nome": "M.T. Infissi",
+   "citta": "Capo d'Orlando",
+   "indirizzo": "C.da Malvicino 1, 98071",
+   "telefono": "328 4139492",
+   "email": "",
+   "sito": "https://www.mtinfissi.com",
+   "specializzazione": "Infissi in alluminio e PVC, alluminio minimal, legno-alluminio, ringhiere, pergole bioclimatiche, zanzariere",
+   "note": "Azienda artigiana con oltre 15 anni di attivita, 71 recensioni Google; cellulare unico.",
+   "fonte": "mtinfissi.com"
+  }
+ ]
+}

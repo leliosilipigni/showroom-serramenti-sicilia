@@ -1,0 +1,269 @@
+{
+ "provincia": "Catania",
+ "aziende": [
+  {
+   "nome": "Finporte Srl",
+   "citta": "San Giovanni La Punta",
+   "indirizzo": "Via Aurora 29/31, 95037 San Giovanni La Punta",
+   "telefono": "095 2881159",
+   "email": "finportect@tiscali.it",
+   "sito": "https://finportecatania.com",
+   "specializzazione": "showroom porte e serramenti: porte interne, portoncini blindati, finestre, scale interne",
+   "note": "Attivo dal 1978; showroom con esposizione dal vivo, sopralluogo e preventivo gratuiti; cell. 380 7537270",
+   "fonte": "sito aziendale finportecatania.com/contatti"
+  },
+  {
+   "nome": "Agosta Porte e Infissi Srl",
+   "citta": "Catania",
+   "indirizzo": "Viale Jonio 100/102, 95129 Catania",
+   "telefono": "095 8256123",
+   "email": "",
+   "sito": "https://www.agostaporteinfissi.it",
+   "specializzazione": "showroom porte interne, porte esterne, portoni e portoncini blindati, infissi",
+   "note": "Gruppo Agosta: anche ceramiche, pavimenti, arredo bagno e ristrutturazioni chiavi in mano",
+   "fonte": "sito aziendale + LinkedIn Gruppo Agosta"
+  },
+  {
+   "nome": "Porte & Co. Store (di Gentile Giuseppe)",
+   "citta": "Sant'Agata li Battiati",
+   "indirizzo": "Via Francesco Lo Jacono 19/A, 95030 Sant'Agata li Battiati",
+   "telefono": "095 7801023",
+   "email": "info@porteco.store.it",
+   "sito": "https://porteco.store",
+   "specializzazione": "porte interne, porte blindate, infissi, porte garage, scale",
+   "note": "Rivenditore Bertolotto; cell. 393 9932950",
+   "fonte": "sito aziendale + portale Bertolotto punti vendita"
+  },
+  {
+   "nome": "Strano Serramenti",
+   "citta": "Mascalucia",
+   "indirizzo": "Via Cesare Battisti 236, 95030 Mascalucia",
+   "telefono": "095 914999",
+   "email": "info@stranoserramenti.it",
+   "sito": "https://stranoserramenti.it",
+   "specializzazione": "serramenti su misura in ferro e alluminio, porte e portoni blindati, infissi",
+   "note": "Dal 1950; showroom su appuntamento (lun-ven 10-13 / 15:30-18:30); cell. 349 1539131",
+   "fonte": "sito aziendale stranoserramenti.it/contatti"
+  },
+  {
+   "nome": "Pitonio Serramenti (Infissi Catania)",
+   "citta": "Aci Sant'Antonio",
+   "indirizzo": "Via Nocilla 59, 95025 Aci Sant'Antonio",
+   "telefono": "349 1249382",
+   "email": "",
+   "sito": "https://www.infissicatania.eu",
+   "specializzazione": "infissi in PVC e alluminio, finestre e portefinestre",
+   "note": "Vendita anche a rate; secondo recapito 348 2705686",
+   "fonte": "sito aziendale infissicatania.eu/contatti"
+  },
+  {
+   "nome": "Privitera Serramenti",
+   "citta": "Misterbianco",
+   "indirizzo": "SS192 Km 79, 95045 Misterbianco",
+   "telefono": "095 5186128",
+   "email": "info@priviteraserramenti.it",
+   "sito": "https://priviteraserramenti.it",
+   "specializzazione": "serramenti in alluminio, facciate continue, infissi su misura",
+   "note": "Complesso produttivo di oltre 1500 mq; azienda familiare attiva dagli anni '80",
+   "fonte": "sito aziendale priviteraserramenti.it/contatti"
+  },
+  {
+   "nome": "Alu Systems Srl",
+   "citta": "Catania",
+   "indirizzo": "Via Gabriele D'Annunzio 53, 95128 Catania",
+   "telefono": "348 6058032",
+   "email": "alusystems@alusystemssrl.it",
+   "sito": "https://www.alusystemssrl.it",
+   "specializzazione": "showroom/distribuzione profili alluminio e PVC, accessori per serramenti, facciate continue",
+   "note": "Showroom a Catania; sede storica a Palermo (tel. 091 471919); piu sedi in Sicilia",
+   "fonte": "sito aziendale alusystemssrl.it/contatti"
+  },
+  {
+   "nome": "Sirwood",
+   "citta": "Catania",
+   "indirizzo": "Via Antonino di Sangiuliano 15/19, 95131 Catania",
+   "telefono": "095 531215",
+   "email": "sifomsrl@gmail.com",
+   "sito": "https://www.sirwood.it",
+   "specializzazione": "infissi, porte interne, pavimenti, rivestimenti e complementi d'arredo",
+   "note": "Showroom in zona centrale; cell. 351 7284420",
+   "fonte": "sito aziendale sirwood.it/contatti"
+  },
+  {
+   "nome": "Bonforte Door Srl",
+   "citta": "Catania",
+   "indirizzo": "Via Antonino di Sangiuliano 14-16-18, 95131 Catania",
+   "telefono": "095 531615",
+   "email": "fbonforte@gmail.com",
+   "sito": "https://www.bonfortedoor.it",
+   "specializzazione": "showroom porte interne, porte blindate, infissi, scale e parquet",
+   "note": "30 anni di attivita; showroom dedicato a privati e interior designer; cell. 376 2892543",
+   "fonte": "sito aziendale bonfortedoor.it/dove-siamo"
+  },
+  {
+   "nome": "Stylcasa Center",
+   "citta": "Catania",
+   "indirizzo": "Via Rabbordone 12-26, 95131 Catania",
+   "telefono": "095 530640",
+   "email": "stylcasacenter@tiscali.it",
+   "sito": "https://www.stylcasacenter.com",
+   "specializzazione": "porte, infissi, parquet, pavimenti e arredo bagno",
+   "note": "Rivenditore Ferrero Legno e Listone Giordano",
+   "fonte": "sito aziendale stylcasacenter.com/contatti"
+  },
+  {
+   "nome": "Biondi Porte",
+   "citta": "Catania",
+   "indirizzo": "Via Vincenzo Giuffrida 172/A, 95128 Catania",
+   "telefono": "335 8438853",
+   "email": "info@biondiporte.com",
+   "sito": "https://lnx.biondiporte.com",
+   "specializzazione": "porte interne in laminato, controtelai per porte a scomparsa, portoncini",
+   "note": "Showroom con appuntamenti anche fuori orario; trasporto e montaggio",
+   "fonte": "sito aziendale biondiporte.com/contatti"
+  },
+  {
+   "nome": "Mondial Chiave",
+   "citta": "Catania",
+   "indirizzo": "Via Torino 14, 95128 Catania",
+   "telefono": "095 444286",
+   "email": "",
+   "sito": "https://www.mondialchiave.it",
+   "specializzazione": "porte blindate, serrature di sicurezza, casseforti",
+   "note": "Punto vendita con esposizione porte blindate",
+   "fonte": "sito aziendale mondialchiave.it/contatti"
+  },
+  {
+   "nome": "Celi Serramenti",
+   "citta": "Catania",
+   "indirizzo": "Via Federico Confalonieri 9/A, 95123 Catania",
+   "telefono": "095 7315800",
+   "email": "",
+   "sito": "https://www.celiserramenti.it",
+   "specializzazione": "serramenti in alluminio, persiane, giardini d'inverno, infissi",
+   "note": "Dal 1975; cell. 392 2008811",
+   "fonte": "sito aziendale/Houzz + PagineGialle"
+  },
+  {
+   "nome": "PM Serramenti",
+   "citta": "Belpasso",
+   "indirizzo": "Via della Resistenza 108, 95032 Belpasso",
+   "telefono": "095 391081",
+   "email": "pmserramenti@outlook.it",
+   "sito": "https://serramentipm.it",
+   "specializzazione": "infissi e serramenti in alluminio e PVC, finestre, porte",
+   "note": "Attiva dal 1985; cell. 351 7194151",
+   "fonte": "sito aziendale serramentipm.it"
+  },
+  {
+   "nome": "Zeroabita Srl",
+   "citta": "Catania",
+   "indirizzo": "Corso delle Province 67, 95128 Catania",
+   "telefono": "095 0934808",
+   "email": "info@zeroabita.it",
+   "sito": "https://www.zeroabita.it",
+   "specializzazione": "sostituzione infissi, finestre e portoncini d'ingresso",
+   "note": "Studio Partner Finstral; seconda sede a Linguaglossa (Via Roma 30)",
+   "fonte": "sito aziendale zeroabita.it + finstral.com"
+  },
+  {
+   "nome": "Spazio Casa Srl",
+   "citta": "Catania",
+   "indirizzo": "Viale Africa 58, 95129 Catania",
+   "telefono": "095 446402",
+   "email": "amministrazione@spaziocasasrl.it",
+   "sito": "https://spaziocasasrl.it",
+   "specializzazione": "showroom serramenti Finstral 270 mq: finestre, porte d'ingresso, vetrate",
+   "note": "Studio Partner Finstral; seconda sede a Siracusa (Viale Scala Greca 397); cell. 333 3355811",
+   "fonte": "sito aziendale spaziocasasrl.it + finstral.com"
+  },
+  {
+   "nome": "EkoWood Catania",
+   "citta": "Catania",
+   "indirizzo": "Via Riccardo Casalaina 78, 95126 Catania",
+   "telefono": "379 2227798",
+   "email": "ekowood@ekowood.it",
+   "sito": "https://www.ekowood.it",
+   "specializzazione": "infissi in PVC, serramenti in alluminio, vetrate panoramiche",
+   "note": "Showroom/distribuzione EkoWood per la Sicilia; produzione in Polonia",
+   "fonte": "sito aziendale ekowood.it/contatti"
+  },
+  {
+   "nome": "Emme2 Infissi",
+   "citta": "Caltagirone",
+   "indirizzo": "Via Madonna Della Via 87, 95041 Caltagirone",
+   "telefono": "371 6663275",
+   "email": "emme2infissi@gmail.com",
+   "sito": "https://www.emme2infissi.com",
+   "specializzazione": "porte e finestre in PVC e alluminio, infissi su misura",
+   "note": "Premium Partner Oknoplast per la provincia di Catania; numero anche WhatsApp",
+   "fonte": "sito aziendale emme2infissi.com/contatti"
+  },
+  {
+   "nome": "Pronta Porta Puglisi Snc",
+   "citta": "Santa Venerina",
+   "indirizzo": "Via Felicetto 26, 95010 Santa Venerina - fraz. Linera",
+   "telefono": "095 958672",
+   "email": "prontaporta@yahoo.it",
+   "sito": "https://www.prontaporta.com",
+   "specializzazione": "porte interne, infissi, serramenti, finestre",
+   "note": "Showroom in contrada Linera, vicino ai caselli di Acireale e Giarre",
+   "fonte": "sito aziendale prontaporta.com"
+  },
+  {
+   "nome": "MPS Showroom (MPS Srl)",
+   "citta": "Giarre",
+   "indirizzo": "Via Luigi Orlando 102, 95014 Giarre",
+   "telefono": "095 2868494",
+   "email": "mps.srl@hotmail.com",
+   "sito": "https://mpsedilizia.com",
+   "specializzazione": "showroom porte in legno massello, infissi, finestre per tetto, scale, porte blindate, zanzariere, persiane",
+   "note": "Rivenditore Garofoli, Velux, Fossati Serramenti, Ferwall, Tecnoscale; VELUX Partner Pro",
+   "fonte": "sito aziendale mpsedilizia.com + Garofoli/Velux punti vendita"
+  },
+  {
+   "nome": "Cardillo Alluminio Srl",
+   "citta": "Giarre",
+   "indirizzo": "Corso Messina 41, 95014 Giarre",
+   "telefono": "095 7784128",
+   "email": "",
+   "sito": "https://www.cardillo.it",
+   "specializzazione": "serramenti e infissi in alluminio, finestre, persiane",
+   "note": "Stabilimento produttivo a Mascali (Via Sicula Orientale 8/A)",
+   "fonte": "sito aziendale cardillo.it + PagineGialle"
+  },
+  {
+   "nome": "Lazzaro Infissi di Lazzaro Giovanni",
+   "citta": "Acireale",
+   "indirizzo": "Corso Savoia 204/206, 95024 Acireale",
+   "telefono": "335 1358347",
+   "email": "lazzaro406@gmail.com",
+   "sito": "",
+   "specializzazione": "infissi in alluminio e PVC, finestre, portefinestre, zanzariere",
+   "note": "Attivita avviata nel 2017 dopo trentennale esperienza nel settore; punto vendita su Corso Savoia",
+   "fonte": "Empresite/PagineGialle + newSolar"
+  },
+  {
+   "nome": "FGS Automatismi (distributore Ditec)",
+   "citta": "Valverde",
+   "indirizzo": "Via Alessandro Manzoni 25, 95028 Valverde",
+   "telefono": "095 7211813",
+   "email": "info@fgsautomatismi.it",
+   "sito": "https://www.fgsautomatismi.it",
+   "specializzazione": "automazioni per cancelli, porte e portoni da garage, controllo accessi",
+   "note": "Distributore Ditec Entrematic per Catania",
+   "fonte": "sito aziendale fgsautomatismi.it/contatti"
+  },
+  {
+   "nome": "Di.Tec. di Contina G. & C. Sas",
+   "citta": "Aci Castello",
+   "indirizzo": "Via Firenze 42, 95021 Aci Castello",
+   "telefono": "095 498276",
+   "email": "ditec@nti.it",
+   "sito": "",
+   "specializzazione": "automazioni cancelli, porte e portoni automatici, controllo accessi",
+   "note": "Rivenditore Ditec",
+   "fonte": "aziendeinrete.it (portale camerale)"
+  }
+ ]
+}

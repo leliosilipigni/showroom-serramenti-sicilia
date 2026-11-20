@@ -1,0 +1,159 @@
+{
+ "provincia": "Enna",
+ "aziende": [
+  {
+   "nome": "Open Door S.a.s.",
+   "citta": "Enna",
+   "indirizzo": "Via Giuseppe Fava 25, 94100 Enna",
+   "telefono": "0935 531731",
+   "email": "",
+   "sito": "",
+   "specializzazione": "Show room di serramenti e porte: finestre e portefinestre in alluminio, porte d'ingresso, serramenti in legno",
+   "note": "Showroom con marchi pregiati; rivenditore/punto Sidel; ospita lo showroom Il Sogno Finestra (serramenti in alluminio)",
+   "fonte": "paginegialle.it + sidelsrl.it"
+  },
+  {
+   "nome": "Spazio Casa S.r.l.",
+   "citta": "Nicosia",
+   "indirizzo": "Via Vittorio Emanuele 100, 94014 Nicosia",
+   "telefono": "0935 639759",
+   "email": "spaziocasanicosia@virgilio.it",
+   "sito": "https://www.spaziocasanicosia.it",
+   "specializzazione": "Show room 70 mq: finestre e portefinestre in PVC, alluminio, legno e legno-alluminio, porte d'ingresso, pareti vetrate",
+   "note": "Studio Partner Finstral dal 2002 (rivenditore ufficiale Finstral); posa certificata ift. Altre sedi/showroom: Catania (Viale Africa 58) e Siracusa (Viale Scala Greca 397)",
+   "fonte": "finstral.com + spaziocasanicosia.it"
+  },
+  {
+   "nome": "Modafferi Infissi",
+   "citta": "Enna",
+   "indirizzo": "Via dello Sport 14, Enna",
+   "telefono": "0935 29228",
+   "email": "info@modafferi.biz",
+   "sito": "https://www.modafferiinfissi.com",
+   "specializzazione": "Serramenti e infissi in legno e legno-alluminio, finestre, portefinestre, porte",
+   "note": "Showroom/sede a Enna; Lun-Ven 8:30-12:30 e 15:30-18:00",
+   "fonte": "modafferiinfissi.com"
+  },
+  {
+   "nome": "Soluzione Infissi di Iuppa Fabio",
+   "citta": "Nicosia",
+   "indirizzo": "Via Archimede 1, 94014 Nicosia",
+   "telefono": "347 1924714",
+   "email": "",
+   "sito": "https://soluzioneinfissisrl.it",
+   "specializzazione": "Infissi in PVC, alluminio, legno, legno-alluminio e persiane; consulenza, montaggio e serramenti su misura",
+   "note": "Sede a Nicosia; showroom espositivo a Biancavilla (CT), Viale dei Fiori 151",
+   "fonte": "soluzioneinfissisrl.it"
+  },
+  {
+   "nome": "Bielle S.r.l.",
+   "citta": "Nissoria",
+   "indirizzo": "Via Alcide De Gasperi snc, 94010 Nissoria",
+   "telefono": "0935 669136",
+   "email": "info@biellesrl.eu",
+   "sito": "https://biellesrl.eu",
+   "specializzazione": "Serramenti su misura in alluminio e PVC, finestre, portefinestre, oscuranti",
+   "note": "Showroom e sede legale in Via De Gasperi; stabilimento produttivo in S.S. 121 C/da Palma (Nissoria). Tel. stabilimento 0935 669046",
+   "fonte": "biellesrl.eu"
+  },
+  {
+   "nome": "R.D. Infissi",
+   "citta": "Villarosa",
+   "indirizzo": "Via Cavour 1, 94100 Villarosa",
+   "telefono": "0935 30102",
+   "email": "r.d.infissi@tin.it",
+   "sito": "https://rdinfissi.it",
+   "specializzazione": "Produzione e vendita infissi in PVC, alluminio e legno; finestre, portefinestre, persiane",
+   "note": "Attiva dal 1997; cellulare 328 0006352; marchi trattati: Schueco, Indinvest",
+   "fonte": "rdinfissi.it"
+  },
+  {
+   "nome": "F.lli Barbagallo",
+   "citta": "Barrafranca",
+   "indirizzo": "Contrada Abate snc, 94012 Barrafranca",
+   "telefono": "0934 468257",
+   "email": "infissi.barbagallo@gmail.com",
+   "sito": "https://www.infissibarbagallo.com",
+   "specializzazione": "Showroom con ampia esposizione di infissi e serramenti da interno ed esterno, serramenti blindati, persiane, serrande, zanzariere, avvolgibili, portoni sezionali",
+   "note": "Rivenditore dei marchi Veka, Q Fort, porte interne Ferrero Legno e Door 2000, infissi Eikona. Cell. 333 3477979",
+   "fonte": "infissibarbagallo.com"
+  },
+  {
+   "nome": "Arena Costruzione Infissi (Costruzione Infissi Arena Francesco & F.lli s.n.c.)",
+   "citta": "Piazza Armerina",
+   "indirizzo": "Via S. Croce 4, 94015 Piazza Armerina",
+   "telefono": "0935 689100",
+   "email": "info@arenacostruzioneinfissi.it",
+   "sito": "https://www.arenacostruzioneinfissi.it",
+   "specializzazione": "Sede e showroom: infissi in alluminio a taglio termico, PVC, ferro e acciaio, porte e portoni, facciate continue, persiane, zanzariere, tende da sole",
+   "note": "Vendita al dettaglio e all'ingrosso, produzione diretta dal 1984",
+   "fonte": "arenacostruzioneinfissi.it + paginebianche.it"
+  },
+  {
+   "nome": "Prospettica Infissi",
+   "citta": "Piazza Armerina",
+   "indirizzo": "Via Gaeta Generale 20, 94015 Piazza Armerina",
+   "telefono": "0935 684455",
+   "email": "",
+   "sito": "",
+   "specializzazione": "Infissi e serramenti (finestre, portefinestre, serramenti per esterni)",
+   "note": "Dati da directory (Cylex); verificare in loco prima della visita",
+   "fonte": "cylex-italia.it"
+  },
+  {
+   "nome": "La Tela Show Room di Maccarrone Mariella & C. S.a.s.",
+   "citta": "Troina",
+   "indirizzo": "Via Nazionale 52, 94018 Troina",
+   "telefono": "0935 654737",
+   "email": "",
+   "sito": "",
+   "specializzazione": "Show room di serramenti, infissi e sistemi di oscuramento (tende alla veneziana/verticali, scuri)",
+   "note": "Punto vendita con esposizione in centro a Troina",
+   "fonte": "paginegialle.it + guidasicilia.it + reteimprese.it"
+  },
+  {
+   "nome": "Sciammacca Infissi",
+   "citta": "Regalbuto",
+   "indirizzo": "Contrada Scalidda snc (Strada SP23b), Regalbuto",
+   "telefono": "373 7478415",
+   "email": "info@sciammaccainfissi.it",
+   "sito": "https://sciammaccainfissi.it",
+   "specializzazione": "Infissi in PVC, porte blindate, porte garage sezionali, serramenti ad alto isolamento termico/acustico",
+   "note": "Partner/rivenditore Eikona; attiva dal 2012; numero anche WhatsApp",
+   "fonte": "sciammaccainfissi.it"
+  },
+  {
+   "nome": "Martesama Porte - Mario Cancellieri",
+   "citta": "Agira",
+   "indirizzo": "Via Sandro Pertini 36, 94011 Agira",
+   "telefono": "0935 1820552",
+   "email": "martesama1@gmail.com",
+   "sito": "https://martesamaporte.it",
+   "specializzazione": "Porte, portoni, porte d'ingresso e da interno, infissi",
+   "note": "Showroom/negozio a piano strada; cell. 327 9520345 (anche WhatsApp)",
+   "fonte": "paginegialle.it + martesamaporte.it"
+  },
+  {
+   "nome": "Metal Legno di Monaco Filippo",
+   "citta": "Agira",
+   "indirizzo": "Contrada Contessa - S.S. 121 Km 69,9, 94011 Agira",
+   "telefono": "0935 960546",
+   "email": "metal.legno1972@gmail.com",
+   "sito": "",
+   "specializzazione": "Serramenti in legno e legno-alluminio, finestre, portefinestre, persiane, avvolgibili",
+   "note": "Inserito nell'elenco serramentisti del gruppo Lalomia; cell. 328 7381038",
+   "fonte": "lalomia.it + paginegialle.it"
+  },
+  {
+   "nome": "AS Infissi di Sanfilippo",
+   "citta": "Leonforte",
+   "indirizzo": "Via Michelangelo 15/17 - Strada Provinciale 33, 94013 Leonforte",
+   "telefono": "0935 902211",
+   "email": "aesseinfissi@hotmail.com",
+   "sito": "https://www.infissisanfilippo.com",
+   "specializzazione": "Produzione e vendita serramenti in alluminio (taglio freddo e termico), finestre, portefinestre, giardini d'inverno, grate e inferriate",
+   "note": "Punto vendita/negozio a Leonforte; cell. 392 1505304 e 345 7983573; Lun-Ven 7:30-12:30 / 14:30-18:30",
+   "fonte": "infissisanfilippo.com + paginegialle.it"
+  }
+ ]
+}

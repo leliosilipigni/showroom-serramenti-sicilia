@@ -1,0 +1,203 @@
+{
+ "provincia": "Caltanissetta",
+ "aziende": [
+  {
+   "nome": "Nastasi Serramenti",
+   "citta": "Caltanissetta",
+   "indirizzo": "Via Gorizia 46, 93100 Caltanissetta",
+   "telefono": "393 4280800",
+   "email": "info.nastasiserramenti@gmail.com",
+   "sito": "https://nastasiserramenti.it/",
+   "specializzazione": "Finestre in PVC e alluminio, portefinestre, persiane e oscuranti, porte d'ingresso",
+   "note": "Esposizione/showroom in sede. Marchi trattati: SIMAR e QFORT. Oltre 40 anni di attivita.",
+   "fonte": "nastasiserramenti.it"
+  },
+  {
+   "nome": "Teco Sistemi Casa",
+   "citta": "San Cataldo",
+   "indirizzo": "Viale della Rinascita 6/B-C-D-E, 93017 San Cataldo",
+   "telefono": "327 8386337 / 366 3182688",
+   "email": "amministrazione@tecosistemicasa.it",
+   "sito": "https://www.tecosistemicasa.it/",
+   "specializzazione": "Showroom serramenti, porte e finestre, porte interne, ceramiche, pavimenti, illuminazione",
+   "note": "Due sedi: showroom San Cataldo (Viale della Rinascita) e showroom OKNOPLAST & SCAVOLINI in Via Due Fontane snc, Caltanissetta. Referente serramenti: finestre@tecosistemicasa.it",
+   "fonte": "tecosistemicasa.it/contatti"
+  },
+  {
+   "nome": "Bruno Infissi S.r.l.",
+   "citta": "San Cataldo",
+   "indirizzo": "Via Gaetano Giordano 1, 93017 San Cataldo",
+   "telefono": "0934 572679",
+   "email": "info@brunoinfissi.biz",
+   "sito": "https://www.brunoinfissi.it/",
+   "specializzazione": "Serramenti e infissi in alluminio/PVC, finestre, portefinestre, persiane",
+   "note": "Ampio showroom espositivo con area test prodotti.",
+   "fonte": "brunoinfissi.it/showroom"
+  },
+  {
+   "nome": "IN.VET. di Falzone Giancarlo (Produzione Infissi e Vetri)",
+   "citta": "San Cataldo",
+   "indirizzo": "Via Zucchetto 3, San Cataldo Scalo, 93100",
+   "telefono": "338 3175733",
+   "email": "invetvetri@gmail.com",
+   "sito": "https://www.invetinfissievetri.it/",
+   "specializzazione": "Infissi in PVC e alluminio, vetreria, vetrate panoramiche, cancelli",
+   "note": "Marchi trattati: Saint-Gobain, Alsistem, Indinvest, Twin System. Vetreria specializzata.",
+   "fonte": "invetinfissievetri.it/contatti"
+  },
+  {
+   "nome": "F.G. Metal snc di Carmelo Falzone e Rosario Gentile",
+   "citta": "San Cataldo",
+   "indirizzo": "Via Nino Savarese 2, 93017 San Cataldo",
+   "telefono": "339 3779603 / 340 5397456",
+   "email": "",
+   "sito": "https://www.fgmetal.it/",
+   "specializzazione": "Finestre a taglio termico, serramenti in ferro e alluminio, persiane, porte, cancelli e ringhiere",
+   "note": "Esperienza ventennale; opera in tutta la Sicilia.",
+   "fonte": "fgmetal.it"
+  },
+  {
+   "nome": "Mirisola Infissi (Mirisola Maurizio)",
+   "citta": "Caltanissetta",
+   "indirizzo": "Via Sallemi 94 (esposizione anche civici 82-90), 93100 Caltanissetta",
+   "telefono": "338 3683029",
+   "email": "",
+   "sito": "https://mauriziomirisolainfissiinpvc.it/",
+   "specializzazione": "Infissi in PVC e alluminio, finestre, portefinestre",
+   "note": "Punto vendita con esposizione su strada; 4,6/5 su 27 recensioni Google.",
+   "fonte": "PagineBianche + sito aziendale"
+  },
+  {
+   "nome": "System Infissi",
+   "citta": "San Cataldo",
+   "indirizzo": "Showroom: Via Babbaurra 99, 93017 San Cataldo; sede operativa Via Aldo Moro",
+   "telefono": "393 3823608 / 348 9243148",
+   "email": "systeminfissi@virgilio.it",
+   "sito": "https://www.systeminfissi.it/",
+   "specializzazione": "Porte sezionali, serrande coibentate, infissi e serramenti, cancelli",
+   "note": "Showroom dedicato; produzione propria.",
+   "fonte": "systeminfissi.it/contatti"
+  },
+  {
+   "nome": "S&L Infissi Vara - Lavorazioni in Alluminio",
+   "citta": "Gela",
+   "indirizzo": "Via Gorgia 35, 93012 Gela",
+   "telefono": "340 1527665 / 392 8743318",
+   "email": "",
+   "sito": "",
+   "specializzazione": "Infissi in alluminio e PVC, zanzariere, porte blindate, persiane semplici e blindate, grate, tapparelle, box doccia",
+   "note": "Oltre 35 anni di esperienza; showroom/esposizione in sede. P.IVA 02010040851.",
+   "fonte": "PagineGialle + PagineBianche"
+  },
+  {
+   "nome": "Montarredi Technical Service",
+   "citta": "Gela",
+   "indirizzo": "Via Bonfiglio Fiorentino 4, 93012 Gela",
+   "telefono": "349 5723446",
+   "email": "",
+   "sito": "https://montarreditechnicalservice.com/",
+   "specializzazione": "Porte interne e blindate, montaggio infissi in PVC e alluminio, serrature, falegnameria, zanzariere, tapparelle",
+   "note": "Showroom arredo/serramenti.",
+   "fonte": "PagineBianche"
+  },
+  {
+   "nome": "Comi Sud",
+   "citta": "Gela",
+   "indirizzo": "Via Legnano 164, 93012 Gela",
+   "telefono": "388 6339474",
+   "email": "",
+   "sito": "",
+   "specializzazione": "Serramenti ed infissi, porte, finestre",
+   "note": "Ampio orario di apertura (fino alle 24:00).",
+   "fonte": "PagineBianche"
+  },
+  {
+   "nome": "A.L. Serramenti e Porte di Lo Chiano Gabriella & C. S.a.s.",
+   "citta": "Gela",
+   "indirizzo": "Via Venezia 432, 93012 Gela",
+   "telefono": "0933 936019",
+   "email": "",
+   "sito": "",
+   "specializzazione": "Serramenti e porte, infissi",
+   "note": "P.IVA 01646970853.",
+   "fonte": "PagineBianche"
+  },
+  {
+   "nome": "Bocchieri Costruzioni in Alluminio",
+   "citta": "Gela",
+   "indirizzo": "Via Butera 172, 93012 Gela",
+   "telefono": "0933 935588 / 329 0615226",
+   "email": "info@bocchierialluminio.it",
+   "sito": "https://bocchierialluminio.it/",
+   "specializzazione": "Infissi e finestre in alluminio e PVC, porte interne, portoncini, pergolati, zanzariere",
+   "note": "Rivenditore ufficiale di marchi nazionali di serramenti/porte/pergolati (elenco marchi sul sito).",
+   "fonte": "bocchierialluminio.it/contatti"
+  },
+  {
+   "nome": "Quintiliano Serramenti",
+   "citta": "Gela",
+   "indirizzo": "Via F.lli Di Dio 2, 93012 Gela",
+   "telefono": "327 5854730",
+   "email": "",
+   "sito": "",
+   "specializzazione": "Infissi in alluminio a taglio termico e PVC, finestre, portefinestre",
+   "note": "Attivo su Facebook; preventivi anche a domicilio.",
+   "fonte": "Pagina Facebook aziendale"
+  },
+  {
+   "nome": "CasaEcoClima di Pier Tanino Lo Bue",
+   "citta": "Riesi",
+   "indirizzo": "Corso Sicilia 17, 93016 Riesi",
+   "telefono": "339 2212062",
+   "email": "",
+   "sito": "https://www.casaecoclimainfissieserramenti.it/",
+   "specializzazione": "Infissi e serramenti in alluminio/PVC/legno-alluminio a taglio termico, porte, persiane, zanzariere",
+   "note": "Dichiarata fabbrica + punto vendita con esposizione; opera in tutta la Sicilia. P.IVA 02082470853.",
+   "fonte": "casaecoclimainfissieserramenti.it"
+  },
+  {
+   "nome": "Camilleri & Terranova",
+   "citta": "Mazzarino",
+   "indirizzo": "Via Cappuccini 143, 93013 Mazzarino",
+   "telefono": "0934 381593",
+   "email": "camillerieterranova@gmail.com",
+   "sito": "https://www.camillerieterranova.com/",
+   "specializzazione": "Infissi in alluminio e PVC, finestre, portefinestre, recinzioni, soppalchi",
+   "note": "Oltre 40 anni di attivita; 650+ lavori consegnati.",
+   "fonte": "camillerieterranova.com"
+  },
+  {
+   "nome": "Nuova Infissi Pirillo",
+   "citta": "Mazzarino",
+   "indirizzo": "Via Gagliano 56/58, 93013 Mazzarino",
+   "telefono": "0934 384111 / 320 8890050",
+   "email": "",
+   "sito": "https://www.nuovainfissipirillo.it/",
+   "specializzazione": "Porte interne in legno, porte scorrevoli, portefinestre, porte blindate, persiane, tapparelle, zanzariere, alluminio a taglio termico",
+   "note": "Sede con esposizione in Via Gagliano.",
+   "fonte": "nuovainfissipirillo.it + Cylex"
+  },
+  {
+   "nome": "Tecnosistem di Spinello Toto e Buetta Salvatore & C. snc",
+   "citta": "Niscemi",
+   "indirizzo": "Via Gori Mario 525, 93015 Niscemi",
+   "telefono": "0933 956933",
+   "email": "",
+   "sito": "",
+   "specializzazione": "Serramenti, infissi, porte e finestre",
+   "note": "",
+   "fonte": "GuidaSicilia"
+  },
+  {
+   "nome": "Tutto Serramenti S.r.l.s.",
+   "citta": "San Cataldo",
+   "indirizzo": "Contrada Bigini 6 (S.P. 6), 93017 San Cataldo",
+   "telefono": "353 3426945",
+   "email": "",
+   "sito": "",
+   "specializzazione": "Serramenti e infissi, finestre, porte",
+   "note": "Opera in tutta la Sicilia; punti di riferimento anche in Via San Tommaso 17.",
+   "fonte": "PagineBianche + pagina Facebook"
+  }
+ ]
+}

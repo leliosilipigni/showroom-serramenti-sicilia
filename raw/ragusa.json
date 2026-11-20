@@ -1,0 +1,225 @@
+{
+ "provincia": "Ragusa",
+ "aziende": [
+  {
+   "nome": "Non Solo Porte S.r.l.",
+   "citta": "Ragusa",
+   "indirizzo": "Via Achille Grandi 55, 97100 Ragusa",
+   "telefono": "0932 604103 / 393 9904175",
+   "email": "info@nonsoloporteragusa.it",
+   "sito": "https://nonsoloporteragusa.it",
+   "specializzazione": "Showroom infissi in PVC e alluminio, finestre e portefinestre, porte interne, portoncini, finestre per tetto, zanzariere",
+   "note": "Studio Partner Finstral; partner dichiarati Velux, Hoermann e Garofoli. Showroom a Ragusa.",
+   "fonte": "sito aziendale + scheda Finstral"
+  },
+  {
+   "nome": "Infissi Bracchitta",
+   "citta": "Ragusa",
+   "indirizzo": "Via Prof. Arturo Di Natale 10, 97100 Ragusa",
+   "telefono": "0932 252225",
+   "email": "info@infissibracchitta.it",
+   "sito": "https://infissibracchitta.it",
+   "specializzazione": "Showroom infissi e serramenti: finestre, portefinestre scorrevoli, portoncini blindati, zanzariere, tettoie, ringhiere",
+   "note": "Showroom nella zona artigianale di Ragusa; visita consigliata su appuntamento.",
+   "fonte": "sito aziendale (pagina Show Room e Contatti)"
+  },
+  {
+   "nome": "Meca Infissi (Meca S.r.l.)",
+   "citta": "Ragusa",
+   "indirizzo": "Via Achille Grandi 226, 97100 Ragusa",
+   "telefono": "0932 667450",
+   "email": "info@mecainfissi.it",
+   "sito": "https://www.mecainfissi.it",
+   "specializzazione": "Serramenti in alluminio, legno-alluminio e PVC, sistemi oscuranti, pergolati, zanzariere",
+   "note": "Rivenditore Climage (Gruppo Guercio). Produzione, vendita e installazione.",
+   "fonte": "sito aziendale + pagina rivenditori Climage"
+  },
+  {
+   "nome": "COMET dei F.lli Cappello S.r.l.",
+   "citta": "Ragusa",
+   "indirizzo": "Zona Industriale IV Fase, Viale 13, 97100 Ragusa",
+   "telefono": "0932 667322 / 375 6063358",
+   "email": "cometragusa@gmail.com",
+   "sito": "https://www.cometragusa.com",
+   "specializzazione": "Serramenti in PVC e alluminio, porte e finestre, sistemi scorrevoli, carpenteria metallica, pensiline",
+   "note": "Marchi trattati: Metra, Schueco.",
+   "fonte": "sito aziendale (pagina Contatti)"
+  },
+  {
+   "nome": "Metalnova Ragusa",
+   "citta": "Ragusa",
+   "indirizzo": "Zona Industriale III Fase, Viale 17 n.20, 97100 Ragusa",
+   "telefono": "0932 667373",
+   "email": "metalnovarg@tiscali.it",
+   "sito": "https://www.metalnovaragusa.it",
+   "specializzazione": "Infissi in alluminio e legno-alluminio, porte interne, portoncini blindati, sezionali per garage, frangisole, ringhiere",
+   "note": "Marchio principale Schueco; azienda artigiana con showroom in zona industriale.",
+   "fonte": "sito aziendale (pagina Contatti)"
+  },
+  {
+   "nome": "Faser S.r.l. - Faser Store",
+   "citta": "Ragusa",
+   "indirizzo": "Via On. Dott. Corrado Di Quattro, Lotti 57/59, 97100 Ragusa",
+   "telefono": "0932 641264",
+   "email": "info@faser.srl",
+   "sito": "https://www.faser.srl",
+   "specializzazione": "Serramenti in alluminio, alluminio-legno e PVC, porte blindate e interne, serrature, casseforti, facciate continue",
+   "note": "Faser Store, centro serrature specializzato; punto vendita/store anche in Via Giosue Carducci 27 a Ragusa. Marchi serrature: MAB, Iseo, Corni.",
+   "fonte": "sito aziendale + elenco Faser Store"
+  },
+  {
+   "nome": "Livia Infissi L.G.",
+   "citta": "Modica",
+   "indirizzo": "Via Vanella 47/20/C, 97015 Modica",
+   "telefono": "0932 905591 / 339 7406989",
+   "email": "info@liviainfissilg.it",
+   "sito": "https://www.liviainfissilg.it",
+   "specializzazione": "Showroom infissi e serramenti: finestre, portefinestre, vetrate panoramiche, oscuranti, porte interne, ringhiere",
+   "note": "Showroom aziendale a Modica; operano in tutta la provincia di Ragusa.",
+   "fonte": "sito aziendale (pagina Showroom e Contatti)"
+  },
+  {
+   "nome": "Colombo Store - Porte e Finestre (Metallegno S.a.s. di Colombo G. e C.)",
+   "citta": "Modica",
+   "indirizzo": "Via Risorgimento 229/B, 97015 Modica",
+   "telefono": "377 5954747",
+   "email": "",
+   "sito": "https://www.colombostore.design",
+   "specializzazione": "Showroom porte e finestre: infissi esterni in alluminio/PVC, porte interne, arredi su misura, pergole bioclimatiche, tende",
+   "note": "Rivenditore Bertolotto (porte interne) e WnD (serramenti); showroom con Colombo Lab.",
+   "fonte": "sito aziendale + pagina rivenditori Bertolotto"
+  },
+  {
+   "nome": "Open Doors di Trepiedi Enrico",
+   "citta": "Modica",
+   "indirizzo": "Via Risorgimento 192, 97015 Modica",
+   "telefono": "0932 906420 / 339 4298087",
+   "email": "info@open-doors.it",
+   "sito": "https://open-doors.it",
+   "specializzazione": "Showroom porte e infissi: porte a battente, scorrevoli, blindate, porte massello/laccate/laminate, infissi in alluminio, maniglie e accessori",
+   "note": "Rivenditore finestre Nurith; showroom al Polo Commerciale di Modica (di fronte a Euronics).",
+   "fonte": "sito aziendale + PagineGialle"
+  },
+  {
+   "nome": "Corrado Serramenti - Kasa Korus",
+   "citta": "Modica",
+   "indirizzo": "Contrada Beneventano sn, 97015 Modica",
+   "telefono": "335 5252636 / 339 3529412",
+   "email": "corradoserramenti@gmail.com",
+   "sito": "https://corradoserramenti.it",
+   "specializzazione": "Showroom serramenti e infissi, progettazione e cultura dell'abitare; porte, finestre, schermature",
+   "note": "Nel 2026 ha inaugurato il nuovo showroom Kasa Korus presso la sede di Modica.",
+   "fonte": "sito aziendale + Corriere di Ragusa + portale Korus"
+  },
+  {
+   "nome": "Paolino Infissi di Paolino Marco",
+   "citta": "Modica",
+   "indirizzo": "Consorziale Pirato Cava Maria 11/C, 97015 Modica",
+   "telefono": "338 7864543",
+   "email": "ferroantico@yahoo.it",
+   "sito": "https://paolinoinfissi.com",
+   "specializzazione": "Serramenti e infissi in alluminio, legno-alluminio e PVC, porte blindate, lavorazioni ferro e acciaio inox, persiane e avvolgibili",
+   "note": "Produzione, vendita e installazione chiavi in mano in provincia di Ragusa e Catania.",
+   "fonte": "sito aziendale + PagineGialle"
+  },
+  {
+   "nome": "MP Infissi S.r.l.s.",
+   "citta": "Modica",
+   "indirizzo": "Contrada Michelica, Zona Artigianale (S.P. Modica-Sampieri 4/G), 97015 Modica",
+   "telefono": "339 1528838",
+   "email": "pieromur94@gmail.com",
+   "sito": "https://www.mpinfissimodica.it",
+   "specializzazione": "Infissi e serramenti in PVC e alluminio, porte blindate, zanzariere, lavorazioni su misura",
+   "note": "Struttura artigianale con showroom/punto vendita in zona artigianale Michelica.",
+   "fonte": "sito aziendale + PagineGialle + Ufficio Camerale"
+  },
+  {
+   "nome": "Cubisystem",
+   "citta": "Comiso",
+   "indirizzo": "Via Francesco De Sanctis 23, 97013 Comiso",
+   "telefono": "0932 250061 / 379 2003574",
+   "email": "cubisystem66@gmail.com",
+   "sito": "https://cubisystem.it",
+   "specializzazione": "Porte, infissi e serramenti su misura, zanzariere, lavorazioni artigianali in ferro",
+   "note": "Punto vendita/showroom a Comiso.",
+   "fonte": "sito aziendale + PagineGialle"
+  },
+  {
+   "nome": "Scribano Serramenti",
+   "citta": "Vittoria",
+   "indirizzo": "Via Emanuele Nicosia 23, 97019 Vittoria",
+   "telefono": "331 3239881",
+   "email": "gi.scribano@tiscali.it",
+   "sito": "https://www.scribanoserramenti.it",
+   "specializzazione": "Vendita e installazione infissi e serramenti in PVC, alluminio e legno",
+   "note": "Azienda con punto vendita a Vittoria.",
+   "fonte": "sito aziendale + PagineGialle"
+  },
+  {
+   "nome": "MR Infissi di Rubbera Piero",
+   "citta": "Ispica",
+   "indirizzo": "Via Toscana 29, 97014 Ispica",
+   "telefono": "0932 959573 / 339 4834630",
+   "email": "info@mrinfissi.it",
+   "sito": "https://www.mrinfissi.it",
+   "specializzazione": "Serramenti in alluminio, showroom infissi, porte e finestre",
+   "note": "Showroom Metra; oltre 35 anni nel settore del serramento in alluminio.",
+   "fonte": "sito aziendale + profilo Houzz"
+  },
+  {
+   "nome": "Masetti S.r.l. - Falegnameria Masetti",
+   "citta": "Ispica",
+   "indirizzo": "Contrada Valleforno snc, 97014 Ispica",
+   "telefono": "0932 951276",
+   "email": "info@infissi-masetti.it",
+   "sito": "https://www.infissi-masetti.it",
+   "specializzazione": "Infissi in legno e legno-alluminio, porte interne, mobili su misura, serramenti di pregio",
+   "note": "Falegnameria dal 1969 con showroom aziendale.",
+   "fonte": "sito aziendale + portale RDE Editore"
+  },
+  {
+   "nome": "Raialfs S.r.l. - Officine Raialfs",
+   "citta": "Scicli",
+   "indirizzo": "Contrada Passo Piano / Timperosse, 97018 Scicli",
+   "telefono": "0932 831178",
+   "email": "raialfs@gmail.com",
+   "sito": "https://www.officineraialfs.it",
+   "specializzazione": "Infissi e serramenti, porte e portoni, cancelli in ferro, lavorazioni metalliche",
+   "note": "Marchi pubblicati: Dierre, ACM, Casit, Nice, Norton. Attiva dal 1979.",
+   "fonte": "sito aziendale + PagineGialle + Operis"
+  },
+  {
+   "nome": "Non Solo Porte Scicli",
+   "citta": "Scicli",
+   "indirizzo": "Corso Garibaldi 257, 97018 Scicli",
+   "telefono": "0932 832190",
+   "email": "info@portescicli.it",
+   "sito": "https://nonsoloportescicli.it",
+   "specializzazione": "Showroom porte e infissi: porte interne, portoncini, finestre, serramenti",
+   "note": "Secondo punto vendita del gruppo Non Solo Porte (showroom anche a Ragusa).",
+   "fonte": "sito aziendale (Contatti)"
+  },
+  {
+   "nome": "Infantino Arredi S.r.l.",
+   "citta": "Pozzallo",
+   "indirizzo": "Via Rivoluzione Francese 46, 97016 Pozzallo",
+   "telefono": "0932 954875 / 338 8788709",
+   "email": "info@infantinoarredisrl.it",
+   "sito": "https://www.infantinoarredisrl.it",
+   "specializzazione": "Showroom arredi, infissi, porte e portoni, strutture; serramenti per la casa",
+   "note": "Showroom/punto vendita a Pozzallo (altra unita a Ispica, c/da Lanza Gallo).",
+   "fonte": "sito aziendale + PagineGialle + configuratore Window4u"
+  },
+  {
+   "nome": "Milito Infissi",
+   "citta": "Giarratana",
+   "indirizzo": "Strada Statale 194 Km 69, 97010 Giarratana",
+   "telefono": "0932 976533",
+   "email": "",
+   "sito": "https://www.militoinfissilegno.com",
+   "specializzazione": "Showroom infissi in legno lamellare: finestre, portefinestre, serramenti di alta gamma",
+   "note": "Laboratorio e showroom in provincia di Ragusa; servono anche Ragusa, Modica, Scicli, Vittoria, Comiso, Ispica, Pozzallo.",
+   "fonte": "sito aziendale (Showroom Serramenti Sicilia)"
+  }
+ ]
+}

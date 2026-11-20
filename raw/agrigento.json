@@ -1,0 +1,236 @@
+{
+ "provincia": "Agrigento",
+ "aziende": [
+  {
+   "nome": "Saell Porte Infissi e Scale",
+   "citta": "Agrigento",
+   "indirizzo": "Via Imera 223/D, 92100 Agrigento",
+   "telefono": "0922 535276 / 347 4792230",
+   "email": "info@saell.it",
+   "sito": "http://www.saell.axeleroweb.it",
+   "specializzazione": "Showroom con esposizione di porte blindate, porte interne classiche e moderne, finestre in alluminio e PVC, infissi di sicurezza, maniglie e ferramenta",
+   "note": "Ampio showroom. Concessionario finestre NURITH e KORUS; porte BERTOLOTTO e ISOMAX. Tratta anche scale. Referente Campione Giuseppe",
+   "fonte": "saell.axeleroweb.it"
+  },
+  {
+   "nome": "Barba Serramenti ed Infissi (Barba snc)",
+   "citta": "Agrigento",
+   "indirizzo": "Via Monsignor Calogero Licata 7, 92100 Agrigento",
+   "telefono": "0922 605939 / 348 3254701",
+   "email": "barba.salvatore65@libero.it",
+   "sito": "https://www.barbainfissi.it",
+   "specializzazione": "Vendita, posa e sostituzione di serramenti e infissi, zanzariere, lavorazione alluminio",
+   "note": "Ditta artigiana con punto vendita in citta; contatto WhatsApp attivo",
+   "fonte": "barbainfissi.it + PagineGialle"
+  },
+  {
+   "nome": "Porte d'Interni Giardina Srl",
+   "citta": "Campobello di Licata",
+   "indirizzo": "Via Luigi Giglia 139 - SS 557 km 2,600, 92023 Campobello di Licata",
+   "telefono": "0922 874973",
+   "email": "",
+   "sito": "https://giardinaporte.it",
+   "specializzazione": "Porte interne in legno e laminato (collezioni Aeternum, Classic, Linear, Incontri), porte per comunita, ferramenta; showroom con esposizione",
+   "note": "Rivenditore/partner Dierre per porte blindate. Showroom anche a Villaggio Mose (AG), Via Lombardia 28. WhatsApp 331 1400314",
+   "fonte": "giardinaporte.it + elenco rivenditori Dierre"
+  },
+  {
+   "nome": "Tecnoserramenti Srl",
+   "citta": "Aragona",
+   "indirizzo": "Via delle Industrie - Zona ASI, 92021 Aragona",
+   "telefono": "",
+   "email": "",
+   "sito": "https://www.infissitecnoserramenti.it",
+   "specializzazione": "Infissi e serramenti su misura in alluminio a taglio termico e PVC, vetrate minimal, zanzariere, porte",
+   "note": "Sede operativa in zona industriale ASI di Aragona; sito con configuratore e contatti solo via form",
+   "fonte": "infissitecnoserramenti.it"
+  },
+  {
+   "nome": "Mediterranea Serramenti Srl",
+   "citta": "Aragona",
+   "indirizzo": "Contrada Punta Orto, 92021 Aragona",
+   "telefono": "0922 36828",
+   "email": "info@mediterraneaserramenti.it",
+   "sito": "https://mediterraneaserramenti.it",
+   "specializzazione": "Serramenti su misura in PVC e alluminio, finestre e portefinestre, schermature",
+   "note": "Azienda strutturata con produzione propria e showroom; attiva su Instagram come @mediterranea_serramenti",
+   "fonte": "mediterraneaserramenti.it + ufficiocamerale.it"
+  },
+  {
+   "nome": "Grisafi Italserramenti (Italserramenti Srl)",
+   "citta": "Aragona",
+   "indirizzo": "Zona Industriale Agrigento, Viale Mediterraneo B/2, 92021 Aragona",
+   "telefono": "0922 441440",
+   "email": "info@italserramenti.com",
+   "sito": "https://www.italserramenti.com",
+   "specializzazione": "Serramenti e infissi in alluminio e PVC, porte, facciate, schermature solari",
+   "note": "Marchio Grisafi Serramenti; struttura con showroom in zona industriale",
+   "fonte": "italserramenti.com"
+  },
+  {
+   "nome": "MSC Centro Sicurezza",
+   "citta": "Canicatti",
+   "indirizzo": "Via Piave 25/A, 92024 Canicatti",
+   "telefono": "320 9458549 / 328 0073088",
+   "email": "info@msccentrosicurezza.it",
+   "sito": "https://www.msccentrosicurezza.com",
+   "specializzazione": "Showroom di infissi in PVC e alluminio, porte interne, porte blindate, schermature solari, pergole bioclimatiche, pavimenti in legno",
+   "note": "Marchi trattati: MV Line, Pavanello, De Faveri. Sabato pomeriggio solo su appuntamento",
+   "fonte": "msccentrosicurezza.com"
+  },
+  {
+   "nome": "Li Calzi Infissi",
+   "citta": "Canicatti",
+   "indirizzo": "Contrada Andolina snc, 92024 Canicatti",
+   "telefono": "0922 735149",
+   "email": "info@licalziinfissi.it",
+   "sito": "https://www.licalziinfissi.it",
+   "specializzazione": "Infissi in alluminio, PVC e legno, portoni e portoncini d'ingresso, finestre, persiane",
+   "note": "Azienda produttrice con ampia gamma di portoncini dogati e bugnati",
+   "fonte": "licalziinfissi.it + Cylex"
+  },
+  {
+   "nome": "Cacciatore Infissi Srls",
+   "citta": "Canicatti",
+   "indirizzo": "Contrada Gulfi, SS 122 km 30, 92024 Canicatti",
+   "telefono": "329 0468683",
+   "email": "cacciatoreinfissi@tiscali.it",
+   "sito": "https://cacciatoreinfissi.it",
+   "specializzazione": "Serramenti in alluminio, PVC Schueco e legno-alluminio su misura, dal progetto alla posa",
+   "note": "Punto vendita/showroom sulla SS122; marchio Schueco",
+   "fonte": "cacciatoreinfissi.it + PagineBianche"
+  },
+  {
+   "nome": "DM Porte dei F.lli Mulone",
+   "citta": "Canicatti",
+   "indirizzo": "Via Giudice Costa, 92024 Canicatti",
+   "telefono": "0922 735049 / 333 9829713",
+   "email": "dm.porte@virgilio.it",
+   "sito": "https://www.dmporteagrigento.com",
+   "specializzazione": "Vendita porte: porte interne, portoncini d'ingresso, porte blindate",
+   "note": "Attiva dal 2000, showroom dedicato alle porte",
+   "fonte": "dmporteagrigento.com"
+  },
+  {
+   "nome": "Centro Infissi di Canicatti",
+   "citta": "Canicatti",
+   "indirizzo": "Via Rosario Pillitteri 2, 92024 Canicatti",
+   "telefono": "0922 832348",
+   "email": "centroinfissisnc@alice.it",
+   "sito": "https://www.centroinfissisnc.it",
+   "specializzazione": "Produzione e installazione infissi e serramenti, persiane, avvolgibili, oscuranti, inferriate, porte interne e blindate, zanzariere, cancelli, tende da sole",
+   "note": "Nata nel 1999 dai titolari Rinallo, Nicosia e Monachello; struttura con produzione propria",
+   "fonte": "centroinfissisnc.it"
+  },
+  {
+   "nome": "Porte Russo Srls",
+   "citta": "Canicatti",
+   "indirizzo": "Via Giudice Antonino Saetta 57, 92024 Canicatti",
+   "telefono": "",
+   "email": "porterussosrls@gmail.com",
+   "sito": "https://porterusso.it",
+   "specializzazione": "Porte interne in legno e laminato, persiane, avvolgibili in PVC e acciaio coibentato",
+   "note": "Ampio show room con molti modelli e finiture; telefono non pubblicato sul sito",
+   "fonte": "porterusso.it"
+  },
+  {
+   "nome": "Bilello Infissi (Bilello Michele)",
+   "citta": "Sciacca",
+   "indirizzo": "Via Calabritto 29/31, 92019 Sciacca",
+   "telefono": "0925 26272 / 348 3715622",
+   "email": "bilellomichele@libero.it",
+   "sito": "https://www.bilelloinfissi.it",
+   "specializzazione": "Finestre e portefinestre, porte d'ingresso, infissi in alluminio/PVC/legno-alluminio",
+   "note": "Studio Partner Finstral per la provincia di Agrigento",
+   "fonte": "bilelloinfissi.it + finstral.com"
+  },
+  {
+   "nome": "Basile Infissi (Coba Infissi Srl)",
+   "citta": "Sciacca",
+   "indirizzo": "Via Giotto 1, 92019 Sciacca",
+   "telefono": "0925 442090 / 348 6966434",
+   "email": "cobainfissisrl@gmail.com",
+   "sito": "https://www.basileinfissi.com",
+   "specializzazione": "Finestre in PVC e alluminio WnD, portoncini in alluminio, porte interne Manuello Design, porte blindate Dierre, schermature solari NewSolar, zanzariere MV Line",
+   "note": "Showroom aziendale a Sciacca; marchi WnD, Dierre, MV Line, NewSolar",
+   "fonte": "basileinfissi.com"
+  },
+  {
+   "nome": "G.M.G. Infissi dei F.lli Callea",
+   "citta": "Licata",
+   "indirizzo": "Via Palma 353, 92027 Licata",
+   "telefono": "0922 774849 / 339 1119118",
+   "email": "",
+   "sito": "https://www.gmginfissi.com",
+   "specializzazione": "Infissi e serramenti su misura in PVC e alluminio, frangisole, ringhiere e facciate in alluminio",
+   "note": "Fabbrica con vendita al dettaglio e showroom aziendale a Licata; opera in tutta la provincia",
+   "fonte": "gmginfissi.com"
+  },
+  {
+   "nome": "Riportella Infissi",
+   "citta": "Menfi",
+   "indirizzo": "Via Del Serpente 7, 92013 Menfi",
+   "telefono": "348 8912585",
+   "email": "",
+   "sito": "http://riportellainfissi.it",
+   "specializzazione": "Infissi in alluminio e legno-alluminio a taglio termico, serramenti in PVC, persiane semplici e blindate, porte blindate, zanzariere, grate in ferro, box doccia",
+   "note": "Ditta di Menfi con punto vendita e produzione; anche automazioni e lavori in acciaio",
+   "fonte": "riportellainfissi.it + Guida Sicilia"
+  },
+  {
+   "nome": "Novara Infissi di Angelo Novara",
+   "citta": "Favara",
+   "indirizzo": "Contrada Pioppo snc, 92026 Favara",
+   "telefono": "0922 31613 / 338 3568148",
+   "email": "infissinovara@gmail.com",
+   "sito": "https://www.infissinovara.com",
+   "specializzazione": "Serramenti su misura in alluminio, legno e PVC, serrande, tapparelle, avvolgibili, zanzariere, grate, cancelli e portoni, automatismi",
+   "note": "Ditta artigiana con sede e punto vendita a Favara (F.lli Novara Infissi)",
+   "fonte": "infissinovara.com"
+  },
+  {
+   "nome": "Bonaccolta Infissi (Bonaccolta Srl)",
+   "citta": "San Giovanni Gemini",
+   "indirizzo": "Viale Regina Margherita 15, 92020 San Giovanni Gemini",
+   "telefono": "0922 902957 / 329 4908451",
+   "email": "mbonaccolta@gmail.com",
+   "sito": "https://www.bonaccoltainfissi.com",
+   "specializzazione": "Serramenti e infissi in ferro, legno, alluminio e PVC su misura per abitazioni, negozi e uffici",
+   "note": "Showroom in centro a San Giovanni Gemini",
+   "fonte": "bonaccoltainfissi.com + PagineBianche"
+  },
+  {
+   "nome": "Prodalf Infissi (Prodalf Srl)",
+   "citta": "San Giovanni Gemini",
+   "indirizzo": "Contrada Puzzillo snc, 92020 San Giovanni Gemini",
+   "telefono": "0922 905949",
+   "email": "info@prodalf.com",
+   "sito": "https://www.prodalf.com",
+   "specializzazione": "Infissi e serramenti metallici, porte, lavorazioni in ferro e alluminio",
+   "note": "Azienda strutturata con produzione e showroom; referenze anche su grandi progetti",
+   "fonte": "prodalf.com + PagineGialle"
+  },
+  {
+   "nome": "Serramenti Pizzo",
+   "citta": "Sciacca",
+   "indirizzo": "Corso Miraglia Accursio 17, 92019 Sciacca",
+   "telefono": "338 4478456",
+   "email": "serramentipizzo@gmail.com",
+   "sito": "",
+   "specializzazione": "Infissi e serramenti in alluminio anodizzato, finestre, porte blindate, porte in legno-alluminio, cancelli e automazioni",
+   "note": "Punto di riferimento a Sciacca per infissi e serramenti; sito web non verificato",
+   "fonte": "Cylex Italia + Guida Sicilia"
+  },
+  {
+   "nome": "Alluminio Matina",
+   "citta": "Favara",
+   "indirizzo": "Via Enrico Berlinguer 66, 92026 Favara",
+   "telefono": "0922 31043",
+   "email": "",
+   "sito": "",
+   "specializzazione": "Serramenti e infissi in alluminio, portoni e cancelli",
+   "note": "Officina/punto vendita a Favara",
+   "fonte": "Cylex Italia + reteimprese.it"
+  }
+ ]
+}

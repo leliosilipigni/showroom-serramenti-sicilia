@@ -1,0 +1,225 @@
+{
+ "provincia": "Trapani",
+ "aziende": [
+  {
+   "nome": "Di Via Serramenti e Porte",
+   "citta": "Trapani",
+   "indirizzo": "Via Virgilio 145, 91100 Trapani",
+   "telefono": "0923 24402 / 393 1222627",
+   "email": "info@diviaserramenti.com",
+   "sito": "https://www.diviaserramenti.com",
+   "specializzazione": "Showroom infissi e porte: finestre e portoncini in PVC, legno e alluminio, zanzariere, pergole bioclimatiche, maniglieria, arredamento",
+   "note": "Studio Partner Finstral con 70 mq di superficie espositiva. Marchi: Garofoli, Finstral, Scrigno, Biemme, Velux, Olivari, Bandalux, Frascio, Faraone, Sunroom, newSolar, MV Line, Shark Net. Lun-ven 8:30-13 / 15-19:30",
+   "fonte": "diviaserramenti.com + scheda Finstral Studio Partner"
+  },
+  {
+   "nome": "Eureka Infissi",
+   "citta": "Trapani",
+   "indirizzo": "Via Livio Bassi 43, 91100 Trapani",
+   "telefono": "0923 1892604",
+   "email": "info@eurekainfissi.it",
+   "sito": "https://www.eurekainfissi.it",
+   "specializzazione": "Showroom infissi e serramenti: PVC, legno, alluminio, legno-alluminio; porte interne; portoncini e porte blindate; zanzariere",
+   "note": "Esclusivista cittadino Nurith (PVC). Marchi: Nurith, Trivi Flessya, Ferrero Legno, Ferwall, Silvelox (blindate), MV Line. Lun-ven 8:30-13 / 15-19:30",
+   "fonte": "eurekainfissi.it"
+  },
+  {
+   "nome": "La Grutta Infissi e Serramenti",
+   "citta": "Trapani",
+   "indirizzo": "Via Archi 119/121, 91100 Trapani",
+   "telefono": "327 1283307",
+   "email": "infissilagrutta@yahoo.com",
+   "sito": "https://www.lagruttainfissi.it",
+   "specializzazione": "Serramenti e infissi su misura: porte, finestre, persiane, manutenzione post-installazione",
+   "note": "Azienda fondata nel 2021 con 25 anni di esperienza pregressa. Lun-ven 8:30-13 / 14:30-18:30, sabato chiuso",
+   "fonte": "lagruttainfissi.it"
+  },
+  {
+   "nome": "House Evolution (Oknoplast Premium Partner)",
+   "citta": "Trapani",
+   "indirizzo": "Via Marsala 37/B, 91100 Trapani",
+   "telefono": "329 3794353",
+   "email": "info@houseevolutioninfissi.it",
+   "sito": "https://www.houseevolutioninfissi.it",
+   "specializzazione": "Infissi in PVC Oknoplast, porte e finestre, portoncini d'ingresso, serramenti su misura",
+   "note": "Premium Partner Oknoplast per Trapani e Palermo; seconda sede/showroom a Palermo, Via delle Alpi 95/D. Lun-ven 9-13 / 16-20, sabato su appuntamento",
+   "fonte": "houseevolutioninfissi.it + pagina rivenditori Oknoplast"
+  },
+  {
+   "nome": "Messina Agostino Infissi in Alluminio",
+   "citta": "Trapani",
+   "indirizzo": "Via Venere 49/51, 91100 Trapani",
+   "telefono": "0923 27432",
+   "email": "messinaagostino@libero.it",
+   "sito": "https://www.messinaagostinoinfissi.com",
+   "specializzazione": "Infissi in alluminio a taglio termico, finestre a battenti, persiane, zanzariere scorrevoli, portoncini e porte blindate con rivestimento liscio",
+   "note": "Azienda produttrice con punto vendita; lun-ven 8:30-13 / 14:30-19",
+   "fonte": "messinaagostinoinfissi.com"
+  },
+  {
+   "nome": "Vitaggio Infissi srl",
+   "citta": "Trapani (Locogrande)",
+   "indirizzo": "Strada Provinciale Trapani-Marsala 5, Locogrande, 91100 Trapani",
+   "telefono": "0923 1810281 / 320 0251235",
+   "email": "vitaggioinfissi@gmail.com",
+   "sito": "https://www.vitaggioinfissi.com",
+   "specializzazione": "Infissi alluminio-PVC, porte interne, vetrate",
+   "note": "Marchi: Bertolotto Porte, Domal, Alumil, Veka, Porte Imic. Lun-ven 8:30-13 / 14:30-18",
+   "fonte": "vitaggioinfissi.com"
+  },
+  {
+   "nome": "GSM Sistemi - Infissi e Serramenti",
+   "citta": "Erice (Casa Santa)",
+   "indirizzo": "Via Giuseppe Cesaro 99/E, 91016 Casa Santa, Erice",
+   "telefono": "329 7462461",
+   "email": "",
+   "sito": "http://gsm-sistemi.it",
+   "specializzazione": "Infissi e serramenti in alluminio, PVC e legno, con showroom",
+   "note": "Lun-ven 9-13 / 16-19, sabato 9-13 e 16-20",
+   "fonte": "scheda Google/keenable + gsm-sistemi.it"
+  },
+  {
+   "nome": "Domus Portae s.n.c.",
+   "citta": "Marsala",
+   "indirizzo": "Corso Antonio Gramsci 100, 91025 Marsala",
+   "telefono": "0923 718146 / 348 7102075",
+   "email": "info@domusportae.it",
+   "sito": "https://domusportae.it",
+   "specializzazione": "Showroom porte e finestre: serramenti Finstral in PVC e legno, porte interne, portoncini e porte blindate, maniglie d'autore",
+   "note": "Rivenditore partner ufficiale Finstral dal 2005 (45 mq esposizione, posa certificata ift); marchi Garofoli, Hoermann, Scrigno, Olivari, Frascio. Seconda sede in Via Mazara 87/D",
+   "fonte": "domusportae.it + schede Finstral rivenditore partner"
+  },
+  {
+   "nome": "Aemme Infissi di Marino A.",
+   "citta": "Marsala",
+   "indirizzo": "Contrada Strasatti 977, 91025 Marsala",
+   "telefono": "0923 741137 / 328 4619793",
+   "email": "info@infissimarino.it",
+   "sito": "https://www.infissimarino.com",
+   "specializzazione": "Infissi e serramenti in alluminio, legno e PVC, porte interne, portoni, zanzariere, box doccia, serrande, persiane di sicurezza",
+   "note": "Marchi: Bugnall, Europannelli, IPL (portoncini blindati), FIP/FAP porte interne, Securbig persiane di sicurezza, Sial tapparelle",
+   "fonte": "infissimarino.com"
+  },
+  {
+   "nome": "Parrinello M. & Angileri M. s.n.c.",
+   "citta": "Marsala",
+   "indirizzo": "Via Giuseppe Mazzini 104, 91025 Marsala",
+   "telefono": "0923 713399",
+   "email": "",
+   "sito": "",
+   "specializzazione": "Porte e portoncini blindati, serramenti, persiane e avvolgibili",
+   "note": "Rivenditore Dierre (portoncini blindati); orari 8-13 / 15-19:30",
+   "fonte": "elenco rivenditori Dierre + Guida Sicilia"
+  },
+  {
+   "nome": "Alluminox di Renda Salvatore",
+   "citta": "Marsala",
+   "indirizzo": "Contrada Dammusello 591, 91025 Marsala",
+   "telefono": "0923 1892034",
+   "email": "",
+   "sito": "",
+   "specializzazione": "Serramenti e infissi in alluminio, finestre, portefinestre",
+   "note": "",
+   "fonte": "PagineGialle / PagineBianche"
+  },
+  {
+   "nome": "Ales Infissi Srl",
+   "citta": "Marsala",
+   "indirizzo": "Via Dante Alighieri snc, 91025 Marsala",
+   "telefono": "329 1555211",
+   "email": "",
+   "sito": "https://alesinfissi.it",
+   "specializzazione": "Serramenti su misura, installazione e assistenza",
+   "note": "",
+   "fonte": "alesinfissi.it + PagineGialle"
+  },
+  {
+   "nome": "SCENARI by LegnoCasa (Legno Casa di Crimi Giovanni)",
+   "citta": "Alcamo",
+   "indirizzo": "Viale Europa 293, 91011 Alcamo",
+   "telefono": "0924 28085",
+   "email": "",
+   "sito": "http://www.legnocasainfissi.com",
+   "specializzazione": "Showroom porte e infissi con ambientazioni: porte interne, sistemi scorrevoli, infissi, materiali e finiture",
+   "note": "Si presenta come lo showroom di porte e infissi piu grande della Sicilia Occidentale (400 mq di ambientazioni); rivenditore Dierre",
+   "fonte": "legnocasainfissi.com + elenco rivenditori Dierre"
+  },
+  {
+   "nome": "Centro Porte e Infissi di Calogero Plaia",
+   "citta": "Alcamo",
+   "indirizzo": "Via delle Magnolie 21, 91011 Alcamo",
+   "telefono": "0924 525985 / 366 1554442",
+   "email": "info@centroporteeinfissi.com",
+   "sito": "https://www.centroporteeinfissi.com",
+   "specializzazione": "Porte interne, sistemi scorrevoli, infissi, porte blindate",
+   "note": "Punto vendita con showroom",
+   "fonte": "centroporteeinfissi.com"
+  },
+  {
+   "nome": "Ciacio Infissi",
+   "citta": "Alcamo",
+   "indirizzo": "Via Cannizzaro 99, 91011 Alcamo",
+   "telefono": "0924 23248",
+   "email": "",
+   "sito": "https://www.ciacioinfissi.it",
+   "specializzazione": "Porte e finestre in alluminio, porte blindate, controtelai a scomparsa, parquet e pavimenti SPC",
+   "note": "",
+   "fonte": "ciacioinfissi.it"
+  },
+  {
+   "nome": "D'Aguanno Infissi s.a.s.",
+   "citta": "Mazara del Vallo",
+   "indirizzo": "Via Pietro La Rocca 10, 91026 Mazara del Vallo",
+   "telefono": "0923 942744 / 327 6911678",
+   "email": "daguannoinfissi@gmail.com",
+   "sito": "https://daguannoinfissi.business.site",
+   "specializzazione": "Infissi in alluminio, legno, PVC e alluminio-legno, persiane e grate, porte interne ed esterne, ringhiere, scale",
+   "note": "Concessionario Korus; lun-ven 8-12:30 / 14-18 (ven fino 19), sabato 8-12",
+   "fonte": "concessionaria Korus + PagineGialle"
+  },
+  {
+   "nome": "AluMetal - Porte & Finestre",
+   "citta": "Mazara del Vallo",
+   "indirizzo": "Via Bolzano 42, 91026 Mazara del Vallo",
+   "telefono": "392 4743079",
+   "email": "",
+   "sito": "",
+   "specializzazione": "Infissi e serramenti in PVC, portefinestre, porte",
+   "note": "Lun-ven 8-18:30, sabato chiuso",
+   "fonte": "scheda Google Maps / keenable"
+  },
+  {
+   "nome": "Fodera Infissi",
+   "citta": "Mazara del Vallo",
+   "indirizzo": "Via Francesco De Santis 33/35, 91026 Mazara del Vallo",
+   "telefono": "375 7756666 / 339 8257997",
+   "email": "foderainfissi@hotmail.com",
+   "sito": "https://foderainfissi.com",
+   "specializzazione": "Porte con serrature di sicurezza, porte blindate, infissi in PVC, finestre in alluminio, porte interne, zanzariere, porte a soffietto, lavorazioni ferro battuto e acciaio inox",
+   "note": "Marchi: Dierre (blindate), Securemme (serrature), Tecnoplast (PVC), ALsistem (alluminio), IMIC (porte interne), Mar Trading (zanzariere). Lun-ven 9-13 / 15-19",
+   "fonte": "foderainfissi.com + ilbelice.it"
+  },
+  {
+   "nome": "Osam Infissi",
+   "citta": "Castelvetrano",
+   "indirizzo": "Contrada Strasatto 9 (Zona Artigianale), 91022 Castelvetrano",
+   "telefono": "0924 908949 / 348 5592758",
+   "email": "info@osam-infissi.it",
+   "sito": "https://www.osaminfissi.com",
+   "specializzazione": "Infissi in alluminio e PVC, tapparelle, persiane, sistemi oscuranti, porte e portoncini, porte blindate antieffrazione, zanzariere",
+   "note": "Attiva dal 1975, produzione e punto vendita; sistemi oscuranti New Solar e linea Orienta",
+   "fonte": "osaminfissi.com"
+  },
+  {
+   "nome": "Garofalo Infissi",
+   "citta": "Castellammare del Golfo",
+   "indirizzo": "Contrada Mortilli snc, 91014 Castellammare del Golfo",
+   "telefono": "0924 31147 / 331 2741723",
+   "email": "info@garofaloinfissi.it",
+   "sito": "https://www.garofaloinfissi.it",
+   "specializzazione": "Produzione, vendita e installazione di infissi e serramenti, finestre, porte",
+   "note": "",
+   "fonte": "garofaloinfissi.it"
+  }
+ ]
+}
